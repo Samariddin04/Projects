@@ -13,4 +13,8 @@ cost in terms of what is called “shift premium.”
 
 How many agents should be assigned to each feasible shift in order to minimize staffing cost?
 
+# Objective
+
+This project aimed to find the minimum cost of employing enough call center agents in order to serve as many clients as possible for each shift and each time period.
+
 
