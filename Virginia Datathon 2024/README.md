@@ -4,3 +4,12 @@ from the Virginia Open Data Portal to extract the most useful features in predic
 in Richmond, VA.
 
 # Presentation
+[![WM MSBA Presentation](https://img.youtube.com/vi/-lhfxaHZqFw/0.jpg)](https://www.youtube.com/watch?v=-lhfxaHZqFw)
+# Files
+In this folder, you will find the consolidated dataset (built off the 8 individual datasets) used in our analyses (1) and the slides used in our presentation (2).
+
+1) DatathonFinalData.csv
+2) DatathonFinalPresentation.pdf
+
+# Datasets
+References to the individual datasets are available in the slides. 
