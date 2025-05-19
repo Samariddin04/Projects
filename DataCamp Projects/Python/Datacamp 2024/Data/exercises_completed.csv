@@ -1,0 +1,1665 @@
+completed_at,exercise_title
+2024-07-16T00:00:00.000Z,FacetGrids vs. AxesSubplots
+2024-11-20T00:00:00.000Z,JSONified (2)
+2024-04-23T00:00:00.000Z,Determine your next move
+2024-07-18T00:00:00.000Z,Map() and lambda functions
+2024-01-01T00:00:00.000Z,Two is better than one
+2024-11-16T00:00:00.000Z,The OLAP data cube
+2024-10-23T00:00:00.000Z,The ins and outs of INNER JOIN
+2024-03-26T00:00:00.000Z,Flying home (3)
+2024-06-21T00:00:00.000Z,Descriptive and inferential statistics
+2024-11-13T00:00:00.000Z,Converting to 2NF (2)
+2024-11-03T00:00:00.000Z,Primary keys
+2024-07-15T00:00:00.000Z,Customizing point plots (2)
+2024-03-26T00:00:00.000Z,Playing safe (2)
+2024-06-23T00:00:00.000Z,Distribution of Amir's sales (2)
+2024-10-31T00:00:00.000Z,Subquery inside FROM (1)
+2024-11-16T00:00:00.000Z,Data warehouse data modeling
+2024-11-16T00:00:00.000Z,What is cloud computing?
+2024-11-14T00:00:00.000Z,Creating vertical partitions (2)
+2024-04-12T00:00:00.000Z,while: warming up
+2024-06-12T00:00:00.000Z,Price of conventional vs. organic avocados (2)
+2024-06-16T00:00:00.000Z,Total riders in a month (2)
+2024-10-25T00:00:00.000Z,Customize further: else if
+2024-06-16T00:00:00.000Z,Total riders in a month (3)
+2024-07-07T00:00:00.000Z,Making a scatter plot with lists (2)
+2024-05-03T00:00:00.000Z,Familiar functions
+2024-11-16T00:00:00.000Z,"Difference between type I, II, and III"
+2024-07-07T00:00:00.000Z,Hue and scatter plots (1)
+2024-03-26T00:00:00.000Z,Formatted string literal
+2024-03-26T00:00:00.000Z,Make this function (1)
+2024-03-26T00:00:00.000Z,Some time ago (2)
+2024-11-20T00:00:00.000Z,Datatype conversion (3)
+2024-11-03T00:00:00.000Z,Load an R Package
+2024-10-22T00:00:00.000Z,Aliasing and arithmetic
+2024-11-13T00:00:00.000Z,Viewing views (2)
+2024-06-20T00:00:00.000Z,Concatenate and merge to find common songs (1)
+2024-11-16T00:00:00.000Z,Deciding on the grain
+2024-10-14T00:00:00.000Z,Using AND (2)
+2024-06-27T00:00:00.000Z,More probability distributions
+2024-11-05T00:00:00.000Z,Join all the tables together
+2024-04-07T00:00:00.000Z,Abstracting Data with DataFrames
+2024-10-28T00:00:00.000Z,The United Nations Voting Dataset
+2024-11-17T00:00:00.000Z,ETL compared to ELT
+2024-11-05T00:00:00.000Z,Useful Functions
+2024-08-27T00:00:00.000Z,Initial exploration
+2024-11-18T00:00:00.000Z,Wrap-up
+2024-05-03T00:00:00.000Z,Inner workings of lists
+2024-03-26T00:00:00.000Z,Love it!
+2024-03-25T00:00:00.000Z,Calling by its name (2)
+2024-11-20T00:00:00.000Z,CTEs
+2024-03-26T00:00:00.000Z,Parsing PDF files
+2024-09-10T00:00:00.000Z,Correlation
+2024-10-11T00:00:00.000Z,At your service
+2024-08-27T00:00:00.000Z,Functions for initial exploration
+2024-11-19T00:00:00.000Z,Features: Snowflake & its competitors
+2024-10-14T00:00:00.000Z,Using AND (3)
+2024-10-31T00:00:00.000Z,Subquery challenge
+2024-01-01T00:00:00.000Z,What-if analysis
+2024-01-21T00:00:00.000Z,Build a histogram (2): bins
+2024-01-24T00:00:00.000Z,Additional Customizations
+2024-06-22T00:00:00.000Z,What are the chances?
+2024-10-19T00:00:00.000Z,Exploring a target variable (4)
+2024-04-09T00:00:00.000Z,Model training and predictions
+2024-09-10T00:00:00.000Z,Visualizing relationships over time (2)
+2024-06-23T00:00:00.000Z,Simulating sales under new market conditions
+2024-06-14T00:00:00.000Z,Your first inner join (2)
+2024-07-07T00:00:00.000Z,Creating subplots with col and row (2)
+2024-10-12T00:00:00.000Z,Multiple criteria
+2024-10-23T00:00:00.000Z,Relationships in our database
+2024-11-04T00:00:00.000Z,Add a SERIAL surrogate key
+2024-03-26T00:00:00.000Z,Regex metacharacters
+2024-01-15T00:00:00.000Z,Only planets with rings but shorter
+2024-06-16T00:00:00.000Z,Three table merge
+2024-07-09T00:00:00.000Z,Plotting subgroups in line plots (3)
+2024-11-05T00:00:00.000Z,Roundup
+2024-10-06T00:00:00.000Z,Calculating salary percentiles
+2024-03-24T00:00:00.000Z,Normalizing reviews (2)
+2024-06-22T00:00:00.000Z,Sampling deals (3)
+2024-10-19T00:00:00.000Z,Combining aggregate functions with WHERE (1)
+2024-06-20T00:00:00.000Z,Concatenation basics (3)
+2024-06-22T00:00:00.000Z,Sampling deals (1)
+2024-04-07T00:00:00.000Z,Part 3: Data visualization
+2024-11-20T00:00:00.000Z,DATE & TIME (1)
+2024-03-26T00:00:00.000Z,Match and split (2)
+2024-11-13T00:00:00.000Z,Updating countries (1)
+2024-10-31T00:00:00.000Z,Subquery inside SELECT
+2024-11-05T00:00:00.000Z,"sapply can't simplify, now what?"
+2024-06-21T00:00:00.000Z,Subsetting rows with .query()
+2024-10-12T00:00:00.000Z,VIEWing your query
+2024-10-31T00:00:00.000Z,Subquery inside WHERE (1)
+2024-06-23T00:00:00.000Z,Data back-ups (2)
+2024-07-06T00:00:00.000Z,Quantitative comparisons: scatter plots
+2024-06-08T00:00:00.000Z,Parts of a DataFrame
+2024-03-26T00:00:00.000Z,Literally formatting (2)
+2024-04-24T00:00:00.000Z,Visualize all walks
+2024-03-24T00:00:00.000Z,Time to join! (1)
+2024-08-11T00:00:00.000Z,"Whenever, whenever"
+2024-10-24T00:00:00.000Z,Joining multiple tables
+2024-06-12T00:00:00.000Z,CSV to DataFrame (2)
+2024-06-22T00:00:00.000Z,Finding outliers using IQR (4)
+2024-09-10T00:00:00.000Z,Converting and analyzing categorical data
+2024-06-21T00:00:00.000Z,Select the right .melt() arguments
+2024-07-18T00:00:00.000Z,Bringing it all together
+2024-01-21T00:00:00.000Z,Line plot (3)
+2024-03-06T00:00:00.000Z,Equality
+2024-04-06T00:00:00.000Z,SortByKey and Collect
+2024-08-27T00:00:00.000Z,Detecting data types (2)
+2024-04-24T00:00:00.000Z,Plot the distribution
+2024-11-20T00:00:00.000Z,Querying JSON data
+2024-10-11T00:00:00.000Z,What are the advantages of databases?
+2024-10-11T00:00:00.000Z,Choice of type
+2024-10-19T00:00:00.000Z,Setting dtypes and saving memory (4)
+2024-03-26T00:00:00.000Z,Lazy approach (2)
+2024-11-06T00:00:00.000Z,Times & Dates
+2024-06-16T00:00:00.000Z,Merging multiple DataFrames
+2024-04-07T00:00:00.000Z,PySpark DataFrame visualization
+2024-06-21T00:00:00.000Z,Subsetting rows with .query() (2)
+2024-01-20T00:00:00.000Z,Transform before load
+2024-06-20T00:00:00.000Z,Concatenate DataFrames together vertically
+2024-07-21T00:00:00.000Z,Nested list comprehensions
+2024-11-05T00:00:00.000Z,sapply with your own function
+2024-03-24T00:00:00.000Z,Time to join! (2)
+2024-01-01T00:00:00.000Z,Congratulations!
+2024-06-21T00:00:00.000Z,Subsetting rows with .query() (1)
+2024-11-17T00:00:00.000Z,Selecting ELT
+2024-07-09T00:00:00.000Z,Customizing bar plots (3)
+2024-04-06T00:00:00.000Z,Basic RDD Transformations and Actions
+2024-11-15T00:00:00.000Z,Support where needed
+2024-03-26T00:00:00.000Z,On time
+2024-06-27T00:00:00.000Z,Modeling time between leads (3)
+2024-07-09T00:00:00.000Z,Count plots (1)
+2024-09-10T00:00:00.000Z,Updating data type to DateTime (2)
+2024-11-21T00:00:00.000Z,Interpreting box plots
+2024-03-26T00:00:00.000Z,Find the numbers
+2024-11-20T00:00:00.000Z,The world of JOINS (2)
+2024-10-31T00:00:00.000Z,WHERE do people live?
+2024-06-17T00:00:00.000Z,Right join to find unique movies
+2024-06-09T00:00:00.000Z,Fill in missing values and sum values with pivot tables (1)
+2024-07-07T00:00:00.000Z,Automate your visualization
+2024-11-13T00:00:00.000Z,Redefining a view
+2024-04-10T00:00:00.000Z,Classification
+2024-06-28T00:00:00.000Z,Using the matplotlib.pyplot interface
+2024-09-10T00:00:00.000Z,Removing outliers (4)
+2024-01-19T00:00:00.000Z,Data Analyst in Power BI track
+2024-10-31T00:00:00.000Z,Subqueries inside FROM
+2024-11-19T00:00:00.000Z,Loading data
+2024-06-23T00:00:00.000Z,Expected value vs. sample mean
+2024-06-23T00:00:00.000Z,Calculating binomial probabilities
+2024-10-06T00:00:00.000Z,Extracting features for correlation
+2024-08-27T00:00:00.000Z,Dealing with missing data (3)
+2024-11-02T00:00:00.000Z,Make your columns UNIQUE with ADD CONSTRAINT (1)
+2024-11-20T00:00:00.000Z,String functions (2)
+2024-06-09T00:00:00.000Z,Pivoting on one variable (3)
+2024-09-10T00:00:00.000Z,What to do with outliers
+2024-08-23T00:00:00.000Z,Writing an iterator to load data in chunks (4)
+2024-06-16T00:00:00.000Z,Inner joins and number of rows returned (2)
+2024-03-25T00:00:00.000Z,Where's the word? (2)
+2024-11-13T00:00:00.000Z,Creating and refreshing a materialized view
+2024-04-07T00:00:00.000Z,Inspecting data in PySpark DataFrame
+2024-07-16T00:00:00.000Z,Single-parameter functions
+2024-10-19T00:00:00.000Z,Exploring a target variable (1)
+2024-11-15T00:00:00.000Z,Stepping into a consultant's shoes
+2024-08-11T00:00:00.000Z,Scheduling data
+2024-11-14T00:00:00.000Z,Creating horizontal partitions (1)
+2024-01-20T00:00:00.000Z,Cleaning data
+2024-07-21T00:00:00.000Z,Iterating over iterables (1)
+2024-06-07T00:00:00.000Z,Your First NumPy Array
+2024-03-26T00:00:00.000Z,On time (2)
+2024-10-19T00:00:00.000Z,Creating a categorical pandas Series
+2024-10-19T00:00:00.000Z,WHERE IN (1)
+2024-11-08T00:00:00.000Z,Extending the book dimension (2)
+2024-11-14T00:00:00.000Z,Data integration
+2024-10-12T00:00:00.000Z,Using WHERE with numbers (2)
+2024-11-21T00:00:00.000Z,Interpreting histograms
+2024-11-08T00:00:00.000Z,Ordering ETL Tasks
+2024-01-15T00:00:00.000Z,"Lists, why would you need them? (2)"
+2024-06-14T00:00:00.000Z,Your first inner join (3)
+2024-06-23T00:00:00.000Z,Probabilities from the normal distribution (2)
+2024-06-12T00:00:00.000Z,DataFrame to CSV
+2024-01-01T00:00:00.000Z,What-if analysis in financial models
+2024-06-23T00:00:00.000Z,Creating a probability distribution
+2024-10-23T00:00:00.000Z,Sorting multiple fields (1)
+2024-04-12T00:00:00.000Z,Cars per capita (1)
+2024-08-27T00:00:00.000Z,Data summarization
+2024-03-26T00:00:00.000Z,Greedy matching (2)
+2024-11-15T00:00:00.000Z,What is a data warehouse?
+2024-06-08T00:00:00.000Z,Introducing DataFrames
+2024-06-08T00:00:00.000Z,Sorting rows (3)
+2024-01-20T00:00:00.000Z,Power Query Editor
+2024-11-02T00:00:00.000Z,Tables: At the core of every database
+2024-11-21T00:00:00.000Z,Logarithmic scales for line plots
+2024-10-23T00:00:00.000Z,Inspecting a relationship
+2024-10-26T00:00:00.000Z,Throw in more conditionals
+2024-07-07T00:00:00.000Z,Introduction to relational plots and subplots
+2024-07-15T00:00:00.000Z,Point plots with subgroups
+2024-11-06T00:00:00.000Z,sub & gsub
+2024-06-23T00:00:00.000Z,Simulating wait times
+2024-07-15T00:00:00.000Z,Point plots with subgroups (3)
+2024-08-27T00:00:00.000Z,Counting categorical values
+2024-04-10T00:00:00.000Z,Logistic Regression model training
+2024-04-23T00:00:00.000Z,Random float
+2024-11-20T00:00:00.000Z,The world of JOINS (1)
+2024-06-09T00:00:00.000Z,Dropping duplicates
+2024-11-05T00:00:00.000Z,Join all the tables together (2)
+2024-11-04T00:00:00.000Z,Surrogate keys
+2024-07-07T00:00:00.000Z,Making a scatter plot with lists (1)
+2024-10-19T00:00:00.000Z,WHERE IN (2)
+2024-11-14T00:00:00.000Z,Create a role (3)
+2024-11-20T00:00:00.000Z,The world of JOINS
+2024-07-07T00:00:00.000Z,Switching between styles (1)
+2024-11-16T00:00:00.000Z,Fact or dimension?
+2024-11-13T00:00:00.000Z,Converting to 1NF (2)
+2024-11-20T00:00:00.000Z,DATE & TIME (3)
+2024-10-23T00:00:00.000Z,GROUP BY single fields (2)
+2024-11-02T00:00:00.000Z,Change types with ALTER COLUMN (3)
+2024-10-12T00:00:00.000Z,Filtering numbers
+2024-11-21T00:00:00.000Z,Ordering box plots
+2024-11-20T00:00:00.000Z,String functions (1)
+2024-09-10T00:00:00.000Z,Working with numeric data
+2024-10-11T00:00:00.000Z,Databases
+2024-10-31T00:00:00.000Z,UNION vs. UNION ALL
+2024-06-16T00:00:00.000Z,Inner joins and number of rows returned (3)
+2024-06-30T00:00:00.000Z,Using a plotting function
+2024-06-22T00:00:00.000Z,"Quartiles, quantiles, and quintiles (1)"
+2024-10-24T00:00:00.000Z,All joins on deck
+2024-11-04T00:00:00.000Z,REFERENCE a table with a FOREIGN KEY (2)
+2024-01-19T00:00:00.000Z,Your first visualization
+2024-01-15T00:00:00.000Z,Have a look at the structure
+2024-08-27T00:00:00.000Z,Functions for initial exploration (3)
+2024-07-21T00:00:00.000Z,Iterators as function arguments
+2024-06-20T00:00:00.000Z,Performing an anti join (2)
+2024-04-07T00:00:00.000Z,PySpark DataFrame subsetting and cleaning
+2024-11-05T00:00:00.000Z,sapply with functions that return NULL
+2024-11-04T00:00:00.000Z,CONCATenate columns to a surrogate key (2)
+2024-06-22T00:00:00.000Z,Measures of spread
+2024-11-13T00:00:00.000Z,Converting to 1NF (1)
+2024-08-27T00:00:00.000Z,Strategies for remaining missing data (1)
+2024-09-10T00:00:00.000Z,Flight duration categories
+2024-06-22T00:00:00.000Z,Calculating probabilities (2)
+2024-10-24T00:00:00.000Z,Joining multiple tables (1)
+2024-07-09T00:00:00.000Z,Interpreting line plots
+2024-03-26T00:00:00.000Z,Filtering phone numbers
+2024-06-17T00:00:00.000Z,Do sequels earn more? (4)
+2024-11-13T00:00:00.000Z,Managing materialized views
+2024-06-28T00:00:00.000Z,Transforming variables (2)
+2024-03-24T00:00:00.000Z,Normalizing reviews
+2024-07-27T00:00:00.000Z,Go with the flow
+2024-07-16T00:00:00.000Z,Adding a title to a FacetGrid object
+2024-11-08T00:00:00.000Z,Querying the dimensional model
+2024-03-26T00:00:00.000Z,Give me your email
+2024-10-19T00:00:00.000Z,Practice with aggregate functions (3)
+2024-07-16T00:00:00.000Z,Adding a title and axis labels (1)
+2024-07-17T00:00:00.000Z,The keyword nonlocal and nested functions
+2024-11-19T00:00:00.000Z,Data types
+2024-10-19T00:00:00.000Z,Setting dtypes and saving memory
+2024-11-05T00:00:00.000Z,Change the referential integrity behavior of a key (4)
+2024-11-20T00:00:00.000Z,Datatype conversion (2)
+2024-03-06T00:00:00.000Z,loc and iloc (2)
+2024-11-20T00:00:00.000Z,NATURAL JOIN
+2024-03-26T00:00:00.000Z,Greedy matching
+2024-10-11T00:00:00.000Z,Data
+2024-03-26T00:00:00.000Z,Find the numbers (3)
+2024-06-08T00:00:00.000Z,Your First 2D NumPy Array
+2024-07-21T00:00:00.000Z,Using * and zip to 'unzip'
+2024-10-19T00:00:00.000Z,Exploring a target variable
+2024-07-15T00:00:00.000Z,Changing style and palette (1)
+2024-10-31T00:00:00.000Z,Subquery inside FROM (2)
+2024-08-23T00:00:00.000Z,Processing data in chunks (1)
+2024-08-27T00:00:00.000Z,Dealing with missing data (2)
+2024-06-21T00:00:00.000Z,Course wrap-up
+2024-08-27T00:00:00.000Z,Global unemployment in 2021
+2024-06-09T00:00:00.000Z,What percent of sales occurred at each store type?
+2024-08-11T00:00:00.000Z,One or the other
+2024-04-24T00:00:00.000Z,Visualize the walk
+2024-07-15T00:00:00.000Z,Adjusting the whiskers (3)
+2024-07-18T00:00:00.000Z,Bringing it all together (1)
+2024-03-05T00:00:00.000Z,Access dictionary
+2024-01-15T00:00:00.000Z,Battle of the sexes
+2024-06-23T00:00:00.000Z,Creating a probability distribution (4)
+2024-10-11T00:00:00.000Z,Our very own table
+2024-11-19T00:00:00.000Z,DESCRIBE & SHOW
+2024-10-12T00:00:00.000Z,Making queries DISTINCT
+2024-10-28T00:00:00.000Z,Use a function (3)
+2024-10-14T00:00:00.000Z,Using AND
+2024-10-19T00:00:00.000Z,Using BETWEEN (4)
+2024-11-19T00:00:00.000Z,Introduction to Snowflake SQL
+2024-11-04T00:00:00.000Z,Model more complex relationships
+2024-06-08T00:00:00.000Z,Subsetting rows by categorical variables
+2024-05-03T00:00:00.000Z,Replace list elements
+2024-09-10T00:00:00.000Z,Exploring with KDE plots (2)
+2024-09-10T00:00:00.000Z,Visualizing relationships over time
+2024-06-17T00:00:00.000Z,Do sequels earn more?
+2024-10-25T00:00:00.000Z,Else if 2.0
+2024-06-08T00:00:00.000Z,Inspecting a DataFrame (2)
+2024-07-28T00:00:00.000Z,The data pipeline
+2024-07-15T00:00:00.000Z,Changing the scale (2)
+2024-04-10T00:00:00.000Z,Loading spam and non-spam data
+2024-11-15T00:00:00.000Z,Data warehouses support organizational analysis
+2024-11-16T00:00:00.000Z,OLAP vs. OLTP scenarios
+2024-01-21T00:00:00.000Z,Choose the right plot (1)
+2024-06-22T00:00:00.000Z,Finding outliers using IQR (3)
+2024-11-21T00:00:00.000Z,Interpreting scatter plots
+2024-03-26T00:00:00.000Z,Ugh! Not for me!
+2024-10-06T00:00:00.000Z,Cross-tabulation (2)
+2024-06-27T00:00:00.000Z,Tracking lead responses (4)
+2024-10-12T00:00:00.000Z,SELECT DISTINCT (2)
+2024-07-18T00:00:00.000Z,Lambda functions
+2024-08-27T00:00:00.000Z,Data validation
+2024-06-12T00:00:00.000Z,Visualizing your data
+2024-07-22T00:00:00.000Z,Using conditionals in comprehensions (1)
+2024-06-16T00:00:00.000Z,One-to-many merge with multiple tables
+2024-06-08T00:00:00.000Z,Summary statistics
+2024-06-17T00:00:00.000Z,Right join to find unique movies (1)
+2024-06-23T00:00:00.000Z,Probabilities from the normal distribution (1)
+2024-01-18T00:00:00.000Z,Create a list
+2024-10-19T00:00:00.000Z,Using ROUND()
+2024-03-26T00:00:00.000Z,Surrounding words (2)
+2024-07-17T00:00:00.000Z,Pop quiz on understanding scope
+2024-11-03T00:00:00.000Z,Get to know SELECT COUNT DISTINCT (1)
+2024-08-11T00:00:00.000Z,We are the champions
+2024-04-06T00:00:00.000Z,Remove stop words and reduce the dataset
+2024-10-23T00:00:00.000Z,Rounding results
+2024-06-22T00:00:00.000Z,Calculating probabilities (3)
+2024-10-22T00:00:00.000Z,Using arithmetic
+2024-01-15T00:00:00.000Z,What's a data frame?
+2024-07-28T00:00:00.000Z,It's not true
+2024-10-12T00:00:00.000Z,Practice with COUNT() (1)
+2024-06-28T00:00:00.000Z,Transforming variables (1)
+2024-11-04T00:00:00.000Z,Add a SERIAL surrogate key (2)
+2024-10-12T00:00:00.000Z,Order of execution
+2024-06-22T00:00:00.000Z,With or without replacement?
+2024-03-25T00:00:00.000Z,Where's the word?
+2024-01-15T00:00:00.000Z,Sorting your data frame
+2024-05-03T00:00:00.000Z,Delete list elements
+2024-06-17T00:00:00.000Z,Popular genres with right join
+2024-07-21T00:00:00.000Z,Using enumerate
+2024-03-25T00:00:00.000Z,Put it in order! (3)
+2024-07-18T00:00:00.000Z,Error handling by raising an error
+2024-10-23T00:00:00.000Z,Sorting results
+2024-06-17T00:00:00.000Z,Using outer join to select actors
+2024-06-12T00:00:00.000Z,Dictionary of lists
+2024-06-08T00:00:00.000Z,Adding new columns
+2024-10-31T00:00:00.000Z,Diagnosing problems using anti join (2)
+2024-10-19T00:00:00.000Z,Using OR (2)
+2024-04-23T00:00:00.000Z,Loop over DataFrame (1)
+2024-09-10T00:00:00.000Z,Flight duration categories (2)
+2024-06-20T00:00:00.000Z,Validating a merge
+2024-03-24T00:00:00.000Z,Normalizing reviews (3)
+2024-09-10T00:00:00.000Z,Adding descriptive statistics (1)
+2024-08-27T00:00:00.000Z,Validating continents (1)
+2024-10-12T00:00:00.000Z,Comparing flavors
+2024-01-15T00:00:00.000Z,Creating a data frame (2)
+2024-03-31T00:00:00.000Z,Understanding SparkContext
+2024-07-15T00:00:00.000Z,Changing the scale
+2024-10-12T00:00:00.000Z,Practice with COUNT() (3)
+2024-10-19T00:00:00.000Z,Practice with NULLs (2)
+2024-11-14T00:00:00.000Z,Creating horizontal partitions (3)
+2024-01-24T00:00:00.000Z,Ticks
+2024-07-28T00:00:00.000Z,Pipeline
+2024-08-27T00:00:00.000Z,Functions for initial exploration (1)
+2024-09-10T00:00:00.000Z,Flight duration (1)
+2024-10-31T00:00:00.000Z,The finish line
+2024-07-17T00:00:00.000Z,The keyword global
+2024-06-28T00:00:00.000Z,Relationships between variables (1)
+2024-10-24T00:00:00.000Z,Remembering what is LEFT
+2024-08-27T00:00:00.000Z,Addressing missing data
+2024-11-08T00:00:00.000Z,Deciding fact and dimension tables (1)
+2024-06-12T00:00:00.000Z,Avocado supply and demand
+2024-06-23T00:00:00.000Z,Which market is better?
+2024-06-17T00:00:00.000Z,Counting missing rows with left join (3)
+2024-06-10T00:00:00.000Z,Visualization options
+2024-03-05T00:00:00.000Z,"Pandas, Part 1"
+2024-10-23T00:00:00.000Z,GROUP BY multiple fields
+2024-10-23T00:00:00.000Z,Aliasing with functions
+2024-06-08T00:00:00.000Z,Sorting rows (2)
+2024-07-16T00:00:00.000Z,A brief introduction to tuples
+2024-07-18T00:00:00.000Z,Functions with one default argument
+2024-11-19T00:00:00.000Z,Snowflake connections and DDL commands
+2024-08-14T00:00:00.000Z,Changing the output in generator expressions
+2024-11-15T00:00:00.000Z,The presentation layer
+2024-08-23T00:00:00.000Z,Using a list comprehension
+2024-03-26T00:00:00.000Z,Make this function (3)
+2024-06-23T00:00:00.000Z,Calculating binomial probabilities (2)
+2024-10-24T00:00:00.000Z,& and |
+2024-11-19T00:00:00.000Z,Snowflake SQL: Using SELECT and WHERE in Snowflake
+2024-10-11T00:00:00.000Z,Finding data types
+2024-07-18T00:00:00.000Z,Introduction to error handling
+2024-07-01T00:00:00.000Z,Adding error-bars to a bar chart
+2024-11-02T00:00:00.000Z,What happens if you try to enter NULLs?
+2024-06-23T00:00:00.000Z,The normal distribution
+2024-06-08T00:00:00.000Z,Explore the baseball data
+2024-06-11T00:00:00.000Z,Slicing and subsetting with .loc and .iloc
+2024-06-17T00:00:00.000Z,Do sequels earn more? (2)
+2024-07-18T00:00:00.000Z,Pop quiz on lambda functions
+2024-06-21T00:00:00.000Z,Using .melt() to reshape government data
+2024-09-10T00:00:00.000Z,Identifying outliers (3)
+2024-11-04T00:00:00.000Z,"Add foreign keys to the ""affiliations"" table"
+2024-03-26T00:00:00.000Z,Make this function (2)
+2024-11-20T00:00:00.000Z,DATE & TIME
+2024-10-19T00:00:00.000Z,Practice with aggregate functions (2)
+2024-10-06T00:00:00.000Z,Categorizing salaries (4)
+2024-06-21T00:00:00.000Z,Subsetting rows with .query() (4)
+2024-11-02T00:00:00.000Z,CREATE your first few TABLEs
+2024-04-07T00:00:00.000Z,Filtering your DataFrame
+2024-03-05T00:00:00.000Z,Motivation for dictionaries
+2024-07-16T00:00:00.000Z,Rotating x-tick labels
+2024-11-18T00:00:00.000Z,On premise and cloud data warehouses
+2024-07-01T00:00:00.000Z,"""Step"" histogram"
+2024-07-15T00:00:00.000Z,FacetGrids vs. AxesSubplots (1)
+2024-07-07T00:00:00.000Z,"""Tidy"" vs. ""untidy"" data (2)"
+2024-04-23T00:00:00.000Z,Loop over NumPy array
+2024-07-06T00:00:00.000Z,Encoding time by color
+2024-03-26T00:00:00.000Z,Getting tokens (1)
+2024-11-19T00:00:00.000Z,Snowflake SQL: Using SELECT and WHERE in Snowflake (1)
+2024-03-25T00:00:00.000Z,Put it in order! (1)
+2024-01-21T00:00:00.000Z,Build a histogram (3): compare
+2024-03-31T00:00:00.000Z,Loading data in PySpark shell
+2024-03-06T00:00:00.000Z,Square Brackets (2)
+2024-06-16T00:00:00.000Z,Total riders in a month (1)
+2024-07-09T00:00:00.000Z,Customizing scatter plots
+2024-10-12T00:00:00.000Z,Aliasing
+2024-11-05T00:00:00.000Z,Count affiliations per university
+2024-10-24T00:00:00.000Z,Reverse the result: !
+2024-06-23T00:00:00.000Z,Probabilities from the normal distribution (3)
+2024-10-06T00:00:00.000Z,Comparing salaries
+2024-07-18T00:00:00.000Z,Bringing it all together (3)
+2024-10-12T00:00:00.000Z,Using WHERE with numbers (3)
+2024-08-11T00:00:00.000Z,Connect the dots
+2024-04-12T00:00:00.000Z,if
+2024-10-31T00:00:00.000Z,Final challenge
+2024-07-09T00:00:00.000Z,Customizing bar plots
+2024-04-10T00:00:00.000Z,Visualizing clusters
+2024-11-13T00:00:00.000Z,Converting to 3NF
+2024-10-24T00:00:00.000Z,& and | (2)
+2024-10-28T00:00:00.000Z,"Required, or optional?"
+2024-11-13T00:00:00.000Z,Creating and querying a view (1)
+2024-07-09T00:00:00.000Z,Count plots
+2024-11-05T00:00:00.000Z,Mathematical utilities
+2024-06-30T00:00:00.000Z,Plotting time-series with different variables
+2024-11-19T00:00:00.000Z,Snowflake SQL: Using SELECT and WHERE in Snowflake (2)
+2024-10-26T00:00:00.000Z,Mix it up with control flow
+2024-06-08T00:00:00.000Z,Sorting and subsetting
+2024-01-01T00:00:00.000Z,Internal rate of return
+2024-03-06T00:00:00.000Z,Boolean operators with NumPy
+2024-11-05T00:00:00.000Z,Use vapply
+2024-10-31T00:00:00.000Z,Comparing two set operations (2)
+2024-10-31T00:00:00.000Z,Diagnosing problems using anti join (1)
+2024-10-12T00:00:00.000Z,Querying the books table (1)
+2024-07-18T00:00:00.000Z,Pop quiz about errors
+2024-11-14T00:00:00.000Z,Creating horizontal partitions
+2024-06-17T00:00:00.000Z,Right join to find unique movies (3)
+2024-10-23T00:00:00.000Z,Sorting single fields
+2024-07-07T00:00:00.000Z,Saving a file several times (1)
+2024-01-19T00:00:00.000Z,Add a card
+2024-06-23T00:00:00.000Z,Identifying distributions
+2024-04-24T00:00:00.000Z,Subsetting lists of lists
+2024-10-25T00:00:00.000Z,The if statement
+2024-10-12T00:00:00.000Z,Querying the books table (3)
+2024-03-26T00:00:00.000Z,Preparing a report (2)
+2024-03-24T00:00:00.000Z,Palindromes
+2024-11-05T00:00:00.000Z,"Drop ""firstname"" and ""lastname"""
+2024-08-23T00:00:00.000Z,Turning this all into a DataFrame
+2024-06-27T00:00:00.000Z,The Poisson distribution
+2024-10-23T00:00:00.000Z,Sorting single fields (1)
+2024-11-19T00:00:00.000Z,Snowflake Competitors and why use Snowflake
+2024-11-20T00:00:00.000Z,Snowflake Query Optimization
+2024-04-12T00:00:00.000Z,while loop
+2024-07-21T00:00:00.000Z,Introduction to iterators
+2024-06-20T00:00:00.000Z,Concatenating with keys
+2024-06-27T00:00:00.000Z,Tracking lead responses (3)
+2024-06-12T00:00:00.000Z,CSV to DataFrame (3)
+2024-11-05T00:00:00.000Z,Apply functions that return NULL
+2024-03-26T00:00:00.000Z,Literally formatting (1)
+2024-11-14T00:00:00.000Z,GRANT privileges and ALTER attributes
+2024-07-21T00:00:00.000Z,Write a basic list comprehension
+2024-06-16T00:00:00.000Z,Total riders in a month
+2024-10-25T00:00:00.000Z,Conditional Statements
+2024-09-10T00:00:00.000Z,Finding the number of unique values
+2024-06-27T00:00:00.000Z,The CLT in action (4)
+2024-06-19T00:00:00.000Z,Filtering joins
+2024-07-07T00:00:00.000Z,Preparing your figures to share with others
+2024-06-28T00:00:00.000Z,What can't correlation measure? (2)
+2024-06-17T00:00:00.000Z,Do sequels earn more? (3)
+2024-11-04T00:00:00.000Z,REFERENCE a table with a FOREIGN KEY
+2024-07-16T00:00:00.000Z,Bar plot with subgroups and subplots
+2024-01-24T00:00:00.000Z,Customization
+2024-10-24T00:00:00.000Z,Building on your LEFT JOIN (1)
+2024-10-31T00:00:00.000Z,"You've got it, EXCEPT..."
+2024-05-03T00:00:00.000Z,String Methods
+2024-07-07T00:00:00.000Z,Switching between styles
+2024-09-10T00:00:00.000Z,Adding descriptive statistics (2)
+2024-08-27T00:00:00.000Z,Detecting data types
+2024-06-08T00:00:00.000Z,Mean and median
+2024-07-21T00:00:00.000Z,Advanced comprehensions
+2024-03-26T00:00:00.000Z,Finding files
+2024-08-23T00:00:00.000Z,Writing an iterator to load data in chunks (1)
+2024-10-23T00:00:00.000Z,Inspecting a relationship (2)
+2024-06-08T00:00:00.000Z,Subsetting columns
+2024-11-13T00:00:00.000Z,Viewing views (3)
+2024-03-31T00:00:00.000Z,Review of functional programming in Python
+2024-11-13T00:00:00.000Z,Tables vs. views
+2024-06-12T00:00:00.000Z,Removing missing values
+2024-10-19T00:00:00.000Z,Combining aggregate functions with WHERE (4)
+2024-10-28T00:00:00.000Z,Build a for loop from scratch
+2024-04-23T00:00:00.000Z,Loop over a list
+2024-06-16T00:00:00.000Z,Inner joins and number of rows returned
+2024-10-24T00:00:00.000Z,Checking multi-table joins
+2024-10-23T00:00:00.000Z,Sorting multiple fields (2)
+2024-06-28T00:00:00.000Z,What can't correlation measure? (1)
+2024-11-08T00:00:00.000Z,Deciding fact and dimension tables (2)
+2024-03-26T00:00:00.000Z,Parsing PDF files (3)
+2024-10-19T00:00:00.000Z,Setting dtypes and saving memory (1)
+2024-03-05T00:00:00.000Z,Dictionary to DataFrame (1)
+2024-06-17T00:00:00.000Z,Enriching a dataset (1)
+2024-06-23T00:00:00.000Z,Distribution of Amir's sales (1)
+2024-07-21T00:00:00.000Z,Congratulations!
+2024-01-15T00:00:00.000Z,Ordered factors
+2024-06-09T00:00:00.000Z,Calculations with .groupby() (2)
+2024-06-08T00:00:00.000Z,Baseball data in 2D form
+2024-10-12T00:00:00.000Z,Practice with COUNT() (2)
+2024-01-15T00:00:00.000Z,Only planets with rings
+2024-10-23T00:00:00.000Z,Your first join (2)
+2024-07-07T00:00:00.000Z,Saving a file several times (2)
+2024-07-07T00:00:00.000Z,Making a count plot with a list
+2024-11-05T00:00:00.000Z,Join all the tables together (1)
+2024-03-05T00:00:00.000Z,Create dictionary
+2024-01-01T00:00:00.000Z,Talk to my manager
+2024-07-18T00:00:00.000Z,Functions with multiple default arguments
+2024-07-15T00:00:00.000Z,Customizing point plots (1)
+2024-03-26T00:00:00.000Z,Lazy approach (1)
+2024-06-17T00:00:00.000Z,Merging a table to itself
+2024-10-31T00:00:00.000Z,Comparing two set operations
+2024-08-27T00:00:00.000Z,Dealing with missing data (1)
+2024-08-11T00:00:00.000Z,We can work it out
+2024-08-23T00:00:00.000Z,Final thoughts
+2024-11-15T00:00:00.000Z,Choosing a top-down approach
+2024-06-17T00:00:00.000Z,Do sequels earn more? (1)
+2024-10-31T00:00:00.000Z,Semi join
+2024-06-08T00:00:00.000Z,Inspecting a DataFrame (1)
+2024-06-30T00:00:00.000Z,Plotting time-series data
+2024-06-22T00:00:00.000Z,Calculating probabilities (1)
+2024-07-07T00:00:00.000Z,Creating two-factor subplots (2)
+2024-11-14T00:00:00.000Z,Picking a Database Management System (DBMS)
+2024-07-21T00:00:00.000Z,Processing large amounts of Twitter data
+2024-11-15T00:00:00.000Z,Ordering data warehouse layers
+2024-06-23T00:00:00.000Z,Continuous distributions
+2024-10-23T00:00:00.000Z,Sorting text
+2024-06-12T00:00:00.000Z,Replacing missing values (1)
+2024-10-11T00:00:00.000Z,Setting the table in style
+2024-11-05T00:00:00.000Z,From sapply to vapply
+2024-10-24T00:00:00.000Z,"This is a LEFT JOIN, right? (2)"
+2024-03-24T00:00:00.000Z,Time to join!
+2024-10-19T00:00:00.000Z,WHERE IN (3)
+2024-11-04T00:00:00.000Z,Add a SERIAL surrogate key (3)
+2024-06-22T00:00:00.000Z,Calculating probabilities
+2024-03-26T00:00:00.000Z,Lazy approach
+2024-06-28T00:00:00.000Z,Confounders
+2024-07-15T00:00:00.000Z,Create and interpret a box plot (1)
+2024-06-30T00:00:00.000Z,Creating small multiples with plt.subplots
+2024-07-18T00:00:00.000Z,Bringing it all together
+2024-11-21T00:00:00.000Z,Dot plots
+2024-08-27T00:00:00.000Z,Dealing with missing data
+2024-06-16T00:00:00.000Z,Left join
+2024-10-12T00:00:00.000Z,Debugging errors (1)
+2024-10-24T00:00:00.000Z,Comparing joins (2)
+2024-04-06T00:00:00.000Z,Partitions in your data
+2024-11-15T00:00:00.000Z,Data warehouse architectures
+2024-07-28T00:00:00.000Z,Who is it
+2024-08-27T00:00:00.000Z,Imputing missing plane prices (1)
+2024-03-06T00:00:00.000Z,loc and iloc (1)
+2024-11-08T00:00:00.000Z,Create and format dates
+2024-11-13T00:00:00.000Z,Creating and querying a view
+2024-10-12T00:00:00.000Z,Making queries DISTINCT (2)
+2024-06-12T00:00:00.000Z,Price of conventional vs. organic avocados
+2024-10-28T00:00:00.000Z,Introduction to Functions
+2024-10-23T00:00:00.000Z,Inspecting a relationship (3)
+2024-10-30T00:00:00.000Z,Set theory for SQL Joins
+2024-07-07T00:00:00.000Z,Creating subplots with col and row (3)
+2024-11-19T00:00:00.000Z,Row versus column oriented database
+2024-10-12T00:00:00.000Z,Debugging errors
+2024-11-02T00:00:00.000Z,Disallow NULL values with SET NOT NULL (1)
+2024-03-26T00:00:00.000Z,Repetitions
+2024-06-27T00:00:00.000Z,Visualizing sampling distributions
+2024-11-20T00:00:00.000Z,Wrap-up
+2024-11-15T00:00:00.000Z,Data warehouse life cycle
+2024-10-26T00:00:00.000Z,Write a while loop
+2024-03-26T00:00:00.000Z,"Close the tag, please!"
+2024-07-07T00:00:00.000Z,Introduction to Seaborn
+2024-06-22T00:00:00.000Z,"Quartiles, quantiles, and quintiles (2)"
+2024-11-17T00:00:00.000Z,Cleaning operations
+2024-10-23T00:00:00.000Z,Your first join (3)
+2024-07-15T00:00:00.000Z,Adjusting the whiskers
+2024-11-19T00:00:00.000Z,Snowflake Architecture Layers
+2024-04-23T00:00:00.000Z,for loop
+2024-06-22T00:00:00.000Z,Mean vs. median (1)
+2024-10-28T00:00:00.000Z,Use a function (2)
+2024-11-02T00:00:00.000Z,RENAME and DROP COLUMNs in affiliations (2)
+2024-01-01T00:00:00.000Z,Return on investment
+2024-03-06T00:00:00.000Z,loc and iloc (3)
+2024-01-24T00:00:00.000Z,Interpretation
+2024-04-24T00:00:00.000Z,Subset and conquer
+2024-11-20T00:00:00.000Z,Functions & Grouping
+2024-10-12T00:00:00.000Z,Congratulations!
+2024-10-28T00:00:00.000Z,"Next, you break it"
+2024-06-27T00:00:00.000Z,The CLT in action (3)
+2024-07-18T00:00:00.000Z,Functions with variable-length arguments (*args)
+2024-10-31T00:00:00.000Z,At the INTERSECT
+2024-10-19T00:00:00.000Z,WHERE IN
+2024-09-10T00:00:00.000Z,Handling outliers
+2024-03-25T00:00:00.000Z,What day is today?
+2024-11-08T00:00:00.000Z,OLTP and OLAP
+2024-03-24T00:00:00.000Z,Time to join! (3)
+2024-06-27T00:00:00.000Z,The CLT in action
+2024-11-05T00:00:00.000Z,Change the referential integrity behavior of a key (3)
+2024-09-10T00:00:00.000Z,Exploring with KDE plots (1)
+2024-06-09T00:00:00.000Z,Calculations with .groupby()
+2024-10-23T00:00:00.000Z,Your first join
+2024-11-19T00:00:00.000Z,Snowflake Staging
+2024-06-16T00:00:00.000Z,One-to-many merge
+2024-06-16T00:00:00.000Z,Counting missing rows with left join (1)
+2024-11-13T00:00:00.000Z,Updatable views
+2024-11-02T00:00:00.000Z,Migrate data with INSERT INTO SELECT DISTINCT (2)
+2024-01-15T00:00:00.000Z,Sorting
+2024-06-28T00:00:00.000Z,Correlation
+2024-01-15T00:00:00.000Z,Creating a named list
+2024-03-06T00:00:00.000Z,"and, or, not (1)"
+2024-10-31T00:00:00.000Z,Semi join (1)
+2024-01-15T00:00:00.000Z,Factor levels
+2024-10-06T00:00:00.000Z,Categorizing salaries (1)
+2024-03-26T00:00:00.000Z,Some time ago
+2024-04-12T00:00:00.000Z,Customize further: elif
+2024-06-22T00:00:00.000Z,Mean vs. median (4)
+2024-10-24T00:00:00.000Z,Histories and languages
+2024-04-10T00:00:00.000Z,Loading and parsing the 5000 points data
+2024-04-07T00:00:00.000Z,RDD to DataFrame
+2024-06-08T00:00:00.000Z,Subsetting columns (1)
+2024-06-23T00:00:00.000Z,Data back-ups (1)
+2024-10-25T00:00:00.000Z,While loop
+2024-08-27T00:00:00.000Z,Validating range
+2024-07-07T00:00:00.000Z,Making a scatter plot with lists (3)
+2024-03-24T00:00:00.000Z,First day! (1)
+2024-11-05T00:00:00.000Z,Use lapply with a built-in R function
+2024-10-12T00:00:00.000Z,Learning to COUNT()
+2024-06-09T00:00:00.000Z,Cumulative statistics
+2024-01-01T00:00:00.000Z,Present value
+2024-11-06T00:00:00.000Z,grepl & grep
+2024-07-01T00:00:00.000Z,Annotating a plot of time-series data
+2024-06-17T00:00:00.000Z,Self join (1)
+2024-11-14T00:00:00.000Z,Create a role (1)
+2024-11-05T00:00:00.000Z,sapply
+2024-09-10T00:00:00.000Z,Flight duration (4)
+2024-07-21T00:00:00.000Z,List comprehension over iterables
+2024-06-17T00:00:00.000Z,Enriching a dataset (2)
+2024-08-27T00:00:00.000Z,Summaries with .groupby() and .agg() (2)
+2024-04-06T00:00:00.000Z,RDDs from External Datasets
+2024-10-31T00:00:00.000Z,Subquery inside SELECT (1)
+2024-01-15T00:00:00.000Z,Creating a list
+2024-09-10T00:00:00.000Z,Identifying outliers (2)
+2024-11-02T00:00:00.000Z,Working with data types
+2024-01-21T00:00:00.000Z,Choose the right plot (2)
+2024-11-14T00:00:00.000Z,SQL versus NoSQL
+2024-07-07T00:00:00.000Z,Creating two-factor subplots (3)
+2024-11-18T00:00:00.000Z,Matching implementation to justification
+2024-04-06T00:00:00.000Z,Abstracting Data with RDDs
+2024-03-26T00:00:00.000Z,Surrounding words (1)
+2024-07-09T00:00:00.000Z,Interpreting line plots (1)
+2024-04-09T00:00:00.000Z,PySpark ML libraries
+2024-11-02T00:00:00.000Z,Query information_schema with SELECT (3)
+2024-07-15T00:00:00.000Z,Adding titles and labels: Part 1
+2024-07-16T00:00:00.000Z,FacetGrids vs. AxesSubplots (2)
+2024-03-26T00:00:00.000Z,Understanding the difference
+2024-04-07T00:00:00.000Z,Part 2: SQL Queries on DataFrame
+2024-06-08T00:00:00.000Z,New columns
+2024-10-24T00:00:00.000Z,Comparing joins (1)
+2024-07-28T00:00:00.000Z,Big time
+2024-10-19T00:00:00.000Z,LIKE and NOT LIKE (1)
+2024-06-08T00:00:00.000Z,Subsetting rows
+2024-11-20T00:00:00.000Z,PARSE_JSON & OBJECT_CONSTRUCT
+2024-03-26T00:00:00.000Z,Try another name
+2024-01-15T00:00:00.000Z,Comparing ordered factors
+2024-06-27T00:00:00.000Z,The t-distribution
+2024-10-12T00:00:00.000Z,Querying the books table (2)
+2024-10-23T00:00:00.000Z,Aliasing with functions (3)
+2024-10-06T00:00:00.000Z,Cross-tabulation (3)
+2024-08-23T00:00:00.000Z,Welcome to the case study!
+2024-10-24T00:00:00.000Z,Logical Operators
+2024-11-04T00:00:00.000Z,Explore foreign key constraints
+2024-06-10T00:00:00.000Z,Choosing the right visual
+2024-10-19T00:00:00.000Z,Setting dtype when reading data (2)
+2024-07-01T00:00:00.000Z,Creating histograms
+2024-11-19T00:00:00.000Z,Snowflake SQL: Using SELECT and WHERE in Snowflake (3)
+2024-06-10T00:00:00.000Z,Transforming columns
+2024-10-23T00:00:00.000Z,GROUP BY single fields
+2024-06-23T00:00:00.000Z,Simulating sales deals (4)
+2024-06-09T00:00:00.000Z,Counting categorical variables
+2024-03-26T00:00:00.000Z,Flying home (4)
+2024-11-05T00:00:00.000Z,"Populate the ""professor_id"" column (3)"
+2024-01-18T00:00:00.000Z,Create lists with different types
+2024-07-16T00:00:00.000Z,Multiple parameters and return values
+2024-06-08T00:00:00.000Z,Efficient summaries (3)
+2024-04-06T00:00:00.000Z,Pair RDDs in PySpark
+2024-11-15T00:00:00.000Z,Pick the correct layer
+2024-01-18T00:00:00.000Z,Subsetting Lists
+2024-01-15T00:00:00.000Z,"Quick, have a look at your dataset"
+2024-10-24T00:00:00.000Z,Building on your LEFT JOIN (3)
+2024-01-15T00:00:00.000Z,Selection of data frame elements (2)
+2024-03-24T00:00:00.000Z,Introduction to string manipulation
+2024-03-26T00:00:00.000Z,Literally formatting (3)
+2024-07-07T00:00:00.000Z,Saving a file several times (3)
+2024-11-17T00:00:00.000Z,Data cleaning
+2024-03-26T00:00:00.000Z,Backreferences
+2024-10-23T00:00:00.000Z,Congratulations!
+2024-11-08T00:00:00.000Z,Querying the dimensional model (1)
+2024-09-10T00:00:00.000Z,Removing outliers
+2024-05-03T00:00:00.000Z,Help!
+2024-11-13T00:00:00.000Z,Extending the snowflake schema
+2024-03-06T00:00:00.000Z,"and, or, not (2)"
+2024-07-01T00:00:00.000Z,Bar chart
+2024-10-12T00:00:00.000Z,Querying a database
+2024-06-27T00:00:00.000Z,The mean of means
+2024-06-20T00:00:00.000Z,Concatenation basics
+2024-03-24T00:00:00.000Z,Artificial reviews (2)
+2024-08-27T00:00:00.000Z,Visualizing categorical summaries
+2024-06-17T00:00:00.000Z,Counting missing rows with left join
+2024-10-06T00:00:00.000Z,Considerations for categorical data
+2024-06-30T00:00:00.000Z,Plot time-series data
+2024-11-05T00:00:00.000Z,sapply with function returning vector
+2024-11-18T00:00:00.000Z,Connecting it all
+2024-11-13T00:00:00.000Z,Converting to 3NF (1)
+2024-10-19T00:00:00.000Z,Practice with aggregate functions (1)
+2024-07-15T00:00:00.000Z,Adjusting the whiskers (2)
+2024-10-24T00:00:00.000Z,Comparing joins
+2024-07-15T00:00:00.000Z,Customizing point plots (3)
+2024-06-12T00:00:00.000Z,Working with pivot tables
+2024-07-28T00:00:00.000Z,Tell me the truth
+2024-06-12T00:00:00.000Z,Subsetting by row/column number
+2024-06-20T00:00:00.000Z,Verifying integrity
+2024-01-19T00:00:00.000Z,Getting started!
+2024-06-23T00:00:00.000Z,Data back-ups (4)
+2024-11-13T00:00:00.000Z,Creating and querying a view (2)
+2024-06-21T00:00:00.000Z,What is statistics?
+2024-01-01T00:00:00.000Z,XNPV with time series
+2024-11-16T00:00:00.000Z,Pop-quiz on slow changes
+2024-09-10T00:00:00.000Z,Exploring with KDE plots (3)
+2024-03-24T00:00:00.000Z,First day! (3)
+2024-10-19T00:00:00.000Z,Using OR (3)
+2024-11-11T00:00:00.000Z,Querying the snowflake schema
+2024-08-11T00:00:00.000Z,Obscured by clouds
+2024-07-09T00:00:00.000Z,Changing the style of scatter plot points
+2024-07-07T00:00:00.000Z,Where to go next
+2024-06-12T00:00:00.000Z,Replacing missing values
+2024-10-23T00:00:00.000Z,HAVING and sorting
+2024-07-15T00:00:00.000Z,Changing style and palette (2)
+2024-04-07T00:00:00.000Z,Loading CSV into DataFrame
+2024-08-27T00:00:00.000Z,Strategies for remaining missing data (3)
+2024-11-06T00:00:00.000Z,sub & gsub (2)
+2024-10-11T00:00:00.000Z,Tables
+2024-10-31T00:00:00.000Z,Review UNION and INTERSECT
+2024-11-02T00:00:00.000Z,Migrate data with INSERT INTO SELECT DISTINCT (1)
+2024-11-21T00:00:00.000Z,Scatter plots
+2024-10-06T00:00:00.000Z,Categorizing salaries (3)
+2024-10-31T00:00:00.000Z,UNION vs. UNION ALL (2)
+2024-08-27T00:00:00.000Z,Validating continents (2)
+2024-11-06T00:00:00.000Z,grepl & grep (2)
+2024-06-27T00:00:00.000Z,Tracking lead responses (2)
+2024-07-15T00:00:00.000Z,Changing style and palette (3)
+2024-04-24T00:00:00.000Z,The next step
+2024-06-27T00:00:00.000Z,Tracking lead responses
+2024-11-15T00:00:00.000Z,What's the difference between data warehouses and data lakes?
+2024-10-31T00:00:00.000Z,Semi join (2)
+2024-06-22T00:00:00.000Z,Finding outliers using IQR (1)
+2024-11-21T00:00:00.000Z,Line plots without dates on the x-axis
+2024-06-11T00:00:00.000Z,Setting and removing indexes
+2024-03-05T00:00:00.000Z,CSV to DataFrame (2)
+2024-11-21T00:00:00.000Z,Interpreting line plots
+2024-11-19T00:00:00.000Z,Snowflake database structures and DML
+2024-06-20T00:00:00.000Z,Correlation between GDP and S&P500 (2)
+2024-07-15T00:00:00.000Z,Changing the scale (4)
+2024-11-21T00:00:00.000Z,Interpreting stacked bar plots
+2024-07-07T00:00:00.000Z,Automating figures from data
+2024-10-06T00:00:00.000Z,Checking for class imbalance
+2024-07-27T00:00:00.000Z,Data engineering and big data
+2024-11-20T00:00:00.000Z,Early filtering
+2024-11-02T00:00:00.000Z,Better data quality with constraints
+2024-08-27T00:00:00.000Z,Summaries with .groupby() and .agg()
+2024-06-16T00:00:00.000Z,One-to-many merge with multiple tables (3)
+2024-06-23T00:00:00.000Z,Probabilities from the normal distribution
+2024-10-31T00:00:00.000Z,Subquery inside WHERE
+2024-01-01T00:00:00.000Z,Sorting out the future from the present
+2024-11-13T00:00:00.000Z,Converting to 2NF (1)
+2024-10-12T00:00:00.000Z,Writing queries
+2024-11-02T00:00:00.000Z,Migrate data with INSERT INTO SELECT DISTINCT
+2024-07-16T00:00:00.000Z,Functions that return single values
+2024-11-19T00:00:00.000Z,Connecting to Snowflake and DDL commands
+2024-11-18T00:00:00.000Z,Do you know it all?
+2024-07-09T00:00:00.000Z,Plotting subgroups in line plots (1)
+2024-07-01T00:00:00.000Z,Statistical plotting
+2024-06-12T00:00:00.000Z,Price of conventional vs. organic avocados (1)
+2024-11-19T00:00:00.000Z,Snowflake Architecture
+2024-11-20T00:00:00.000Z,DATE & TIME (2)
+2024-11-05T00:00:00.000Z,vapply
+2024-03-24T00:00:00.000Z,Split lines or split the line?
+2024-10-19T00:00:00.000Z,Summarizing data
+2024-06-22T00:00:00.000Z,Mean vs. median (2)
+2024-10-23T00:00:00.000Z,Inspecting a relationship (4)
+2024-10-26T00:00:00.000Z,Build a while loop from scratch
+2024-11-21T00:00:00.000Z,Continuous vs. categorical variables
+2024-07-07T00:00:00.000Z,Save a figure with different sizes
+2024-11-03T00:00:00.000Z,Get to know SELECT COUNT DISTINCT
+2024-01-21T00:00:00.000Z,Line plot (1)
+2024-03-26T00:00:00.000Z,Preparing a report
+2024-03-06T00:00:00.000Z,Warmup
+2024-03-05T00:00:00.000Z,CSV to DataFrame (1)
+2024-11-15T00:00:00.000Z,Data warehouses vs. data marts
+2024-11-13T00:00:00.000Z,Managing views
+2024-11-05T00:00:00.000Z,Use vapply (2)
+2024-11-08T00:00:00.000Z,Storing data
+2024-11-02T00:00:00.000Z,RENAME and DROP COLUMNs in affiliations (1)
+2024-06-10T00:00:00.000Z,Making changes
+2024-03-26T00:00:00.000Z,Filtering phone numbers (2)
+2024-10-19T00:00:00.000Z,Using OR (1)
+2024-04-10T00:00:00.000Z,Clustering
+2024-06-28T00:00:00.000Z,Introduction to data visualization with Matplotlib
+2024-06-23T00:00:00.000Z,Distribution of Amir's sales
+2024-06-28T00:00:00.000Z,Does sugar improve happiness? (2)
+2024-06-07T00:00:00.000Z,Selective import
+2024-06-09T00:00:00.000Z,Calculations with .groupby() (1)
+2024-06-21T00:00:00.000Z,Measures of center
+2024-06-22T00:00:00.000Z,"Quartiles, quantiles, and quintiles (3)"
+2024-01-19T00:00:00.000Z,Slicers
+2024-07-09T00:00:00.000Z,Interpreting line plots (2)
+2024-10-12T00:00:00.000Z,Non-standard fields
+2024-03-26T00:00:00.000Z,Getting tokens (2)
+2024-07-09T00:00:00.000Z,Customizing bar plots (2)
+2024-10-12T00:00:00.000Z,SELECT DISTINCT
+2024-04-06T00:00:00.000Z,Map and Collect
+2024-01-19T00:00:00.000Z,Introduction to Power BI
+2024-06-21T00:00:00.000Z,Using merge_asof() to create dataset
+2024-04-23T00:00:00.000Z,Loop over dictionary
+2024-07-07T00:00:00.000Z,"""Tidy"" vs. ""untidy"" data (1)"
+2024-10-24T00:00:00.000Z,Compare matrices
+2024-10-19T00:00:00.000Z,Course introduction
+2024-06-10T00:00:00.000Z,Changing visuals
+2024-07-17T00:00:00.000Z,Scope and user-defined functions
+2024-11-05T00:00:00.000Z,Change the referential integrity behavior of a key (1)
+2024-08-14T00:00:00.000Z,Write your own generator expressions
+2024-07-17T00:00:00.000Z,Bringing it all together (2)
+2024-01-24T00:00:00.000Z,Labels
+2024-11-16T00:00:00.000Z,OLAP and OLTP systems
+2024-10-12T00:00:00.000Z,SELECT DISTINCT (1)
+2024-01-19T00:00:00.000Z,Loading existing reports
+2024-11-19T00:00:00.000Z,What is Snowflake?
+2024-11-05T00:00:00.000Z,Find the error (2)
+2024-11-16T00:00:00.000Z,Ordering Kimball's steps
+2024-03-31T00:00:00.000Z,What is Big Data?
+2024-06-22T00:00:00.000Z,Sampling deals (2)
+2024-11-05T00:00:00.000Z,Use lapply with your own function
+2024-06-14T00:00:00.000Z,What column to merge on?
+2024-10-24T00:00:00.000Z,Comparing joins (3)
+2024-06-08T00:00:00.000Z,Sorting rows (1)
+2024-11-13T00:00:00.000Z,Viewing views (1)
+2024-03-24T00:00:00.000Z,String operations
+2024-06-11T00:00:00.000Z,Subsetting with .loc[]
+2024-08-11T00:00:00.000Z,Our warehouse (in the middle of our street)
+2024-01-21T00:00:00.000Z,Basic plots with Matplotlib
+2024-11-21T00:00:00.000Z,Sorting dot plots
+2024-08-27T00:00:00.000Z,Validating continents
+2024-06-28T00:00:00.000Z,Relationships between variables
+2024-01-01T00:00:00.000Z,Exit now!
+2024-03-26T00:00:00.000Z,Identifying prices
+2024-04-23T00:00:00.000Z,Loop over list of lists
+2024-11-04T00:00:00.000Z,CONCATenate columns to a surrogate key (3)
+2024-03-05T00:00:00.000Z,Dictionary to DataFrame (2)
+2024-06-20T00:00:00.000Z,Concatenation basics (1)
+2024-11-02T00:00:00.000Z,Disallow NULL values with SET NOT NULL (2)
+2024-10-31T00:00:00.000Z,Semi join (3)
+2024-06-21T00:00:00.000Z,"merge_ordered() caution, multiple columns"
+2024-06-09T00:00:00.000Z,Pivoting on one variable
+2024-11-13T00:00:00.000Z,Viewing views
+2024-11-04T00:00:00.000Z,CONCATenate columns to a surrogate key (1)
+2024-10-14T00:00:00.000Z,Using AND (1)
+2024-04-06T00:00:00.000Z,CountingBykeys
+2024-11-02T00:00:00.000Z,Disallow NULL values with SET NOT NULL
+2024-07-17T00:00:00.000Z,Python's built-in scope
+2024-10-19T00:00:00.000Z,Using BETWEEN (1)
+2024-03-26T00:00:00.000Z,Preparing a report (1)
+2024-06-30T00:00:00.000Z,Using a time index to zoom in
+2024-11-16T00:00:00.000Z,Why is column store faster?
+2024-08-11T00:00:00.000Z,Different breeds
+2024-10-19T00:00:00.000Z,Using BETWEEN
+2024-06-12T00:00:00.000Z,Replacing missing values (2)
+2024-11-02T00:00:00.000Z,Query information_schema with SELECT (2)
+2024-10-19T00:00:00.000Z,Categorical data in pandas
+2024-11-21T00:00:00.000Z,Line plots
+2024-10-12T00:00:00.000Z,VIEWing your query (2)
+2024-07-09T00:00:00.000Z,Changing the size of scatter plot points (1)
+2024-10-12T00:00:00.000Z,Practice with COUNT()
+2024-11-13T00:00:00.000Z,Materialized versus non-materialized
+2024-06-08T00:00:00.000Z,Summarizing dates
+2024-07-07T00:00:00.000Z,Making a scatter plot with lists
+2024-07-07T00:00:00.000Z,Hue and scatter plots
+2024-04-10T00:00:00.000Z,Model evaluation using MSE
+2024-08-11T00:00:00.000Z,Cloud computing
+2024-06-22T00:00:00.000Z,"Quartiles, quantiles, and quintiles"
+2024-03-25T00:00:00.000Z,Put it in order! (4)
+2024-06-11T00:00:00.000Z,Slicing time series
+2024-06-28T00:00:00.000Z,Guess the correlation
+2024-10-31T00:00:00.000Z,EXCEPT
+2024-08-27T00:00:00.000Z,Strategies for remaining missing data (2)
+2024-11-08T00:00:00.000Z,Running from star to snowflake
+2024-09-10T00:00:00.000Z,Interpreting a heatmap
+2024-10-19T00:00:00.000Z,Aggregate functions and data types
+2024-11-20T00:00:00.000Z,JSONified (1)
+2024-06-28T00:00:00.000Z,Relationships between variables (4)
+2024-11-08T00:00:00.000Z,Extending the book dimension (1)
+2024-10-24T00:00:00.000Z,Crossing into CROSS JOIN
+2024-10-24T00:00:00.000Z,"This is a LEFT JOIN, right? (1)"
+2024-11-21T00:00:00.000Z,Interpreting bar plots
+2024-10-24T00:00:00.000Z,Self joins
+2024-11-17T00:00:00.000Z,Finding truth in data transformations
+2024-06-21T00:00:00.000Z,Selecting data with .query()
+2024-11-02T00:00:00.000Z,The not-null and unique constraints
+2024-06-09T00:00:00.000Z,Multiple grouped summaries
+2024-01-21T00:00:00.000Z,Scatter plot (2)
+2024-04-06T00:00:00.000Z,Print word frequencies
+2024-01-19T00:00:00.000Z,Transforming data
+2024-06-10T00:00:00.000Z,Making maps with geographic data
+2024-07-17T00:00:00.000Z,Nested Functions I
+2024-07-01T00:00:00.000Z,Quantitative comparisons: histograms
+2024-10-28T00:00:00.000Z,R passes arguments by value
+2024-11-19T00:00:00.000Z,Data warehousing platforms
+2024-06-28T00:00:00.000Z,Congratulations!
+2024-10-19T00:00:00.000Z,Combining aggregate functions with WHERE (3)
+2024-07-21T00:00:00.000Z,Iterators vs. Iterables
+2024-10-31T00:00:00.000Z,Subquerying with semi joins and anti joins
+2024-07-21T00:00:00.000Z,Writing list comprehensions
+2024-10-24T00:00:00.000Z,Comparing a country to itself
+2024-11-16T00:00:00.000Z,Categorizing row and column store scenarios
+2024-06-08T00:00:00.000Z,Efficient summaries (1)
+2024-04-09T00:00:00.000Z,Overview of PySpark MLlib
+2024-11-02T00:00:00.000Z,CREATE your first few TABLEs (1)
+2024-11-05T00:00:00.000Z,How to use sapply
+2024-03-24T00:00:00.000Z,Artificial reviews (1)
+2024-11-19T00:00:00.000Z,Decoupling Compute & Storage
+2024-11-20T00:00:00.000Z,Subqueries
+2024-03-26T00:00:00.000Z,Find the numbers (1)
+2024-10-24T00:00:00.000Z,Greater and less than
+2024-11-14T00:00:00.000Z,Data integration do's and dont's
+2024-11-02T00:00:00.000Z,Conforming with data types
+2024-07-16T00:00:00.000Z,Well done! What's next?
+2024-10-23T00:00:00.000Z,All together now (2)
+2024-03-26T00:00:00.000Z,Lookaround
+2024-03-26T00:00:00.000Z,Some time ago (3)
+2024-06-08T00:00:00.000Z,Subsetting rows (1)
+2024-08-23T00:00:00.000Z,Writing a function to help you
+2024-08-14T00:00:00.000Z,List comprehensions vs. generators
+2024-01-15T00:00:00.000Z,Selection of data frame elements
+2024-11-16T00:00:00.000Z,Selecting reasonable facts
+2024-07-16T00:00:00.000Z,Adding a title and axis labels
+2024-10-28T00:00:00.000Z,Function scoping
+2024-10-23T00:00:00.000Z,Filtering grouped data
+2024-07-17T00:00:00.000Z,Functions that return multiple values
+2024-06-23T00:00:00.000Z,Data back-ups (3)
+2024-11-21T00:00:00.000Z,A plot tells a thousand words
+2024-07-27T00:00:00.000Z,Not responsible
+2024-06-20T00:00:00.000Z,Concatenate and merge to find common songs (2)
+2024-11-21T00:00:00.000Z,Adjusting bin width
+2024-06-09T00:00:00.000Z,Pivoting on one variable (1)
+2024-07-18T00:00:00.000Z,Bringing it all together (2)
+2024-07-15T00:00:00.000Z,Point plots with subgroups (1)
+2024-03-26T00:00:00.000Z,Match and split (3)
+2024-07-16T00:00:00.000Z,Adding a title and axis labels (2)
+2024-11-18T00:00:00.000Z,Data warehouse design example
+2024-08-11T00:00:00.000Z,Data warehouses and data lakes
+2024-03-05T00:00:00.000Z,Dictionariception
+2024-03-05T00:00:00.000Z,Dictionary Manipulation (2)
+2024-10-19T00:00:00.000Z,Ordinal categorical variables
+2024-06-23T00:00:00.000Z,Simulating sales deals (2)
+2024-10-12T00:00:00.000Z,Making queries DISTINCT (1)
+2024-11-04T00:00:00.000Z,Model 1:N relationships with foreign keys
+2024-09-10T00:00:00.000Z,Removing outliers (3)
+2024-10-31T00:00:00.000Z,UNION vs. UNION ALL (3)
+2024-11-15T00:00:00.000Z,What are the different layers of a data warehouse?
+2024-10-31T00:00:00.000Z,INTERSECT
+2024-06-22T00:00:00.000Z,Mean vs. median (3)
+2024-10-19T00:00:00.000Z,Filtering text
+2024-11-02T00:00:00.000Z,CREATE your first few TABLEs (2)
+2024-11-06T00:00:00.000Z,Beat Gauss using R
+2024-11-20T00:00:00.000Z,The world of JOINS (3)
+2024-11-08T00:00:00.000Z,Star and snowflake schema
+2024-07-21T00:00:00.000Z,List comprehensions
+2024-11-20T00:00:00.000Z,Subquerying and Common Table Expressions
+2024-06-28T00:00:00.000Z,Design of experiments
+2024-10-19T00:00:00.000Z,LIKE and NOT LIKE
+2024-10-12T00:00:00.000Z,Formatting
+2024-08-23T00:00:00.000Z,Using pandas' read_csv iterator for streaming data
+2024-08-11T00:00:00.000Z,Structures
+2024-10-11T00:00:00.000Z,SQL strengths
+2024-06-12T00:00:00.000Z,Changes in sales over time
+2024-10-24T00:00:00.000Z,Blend it all together
+2024-06-12T00:00:00.000Z,CSV to DataFrame (4)
+2024-06-23T00:00:00.000Z,How many sales will be won?
+2024-06-22T00:00:00.000Z,Sampling deals
+2024-10-23T00:00:00.000Z,Answering business questions
+2024-10-28T00:00:00.000Z,Write your own function (2)
+2024-10-12T00:00:00.000Z,Debugging errors (2)
+2024-03-26T00:00:00.000Z,Surrounding words
+2024-11-03T00:00:00.000Z,R you functional? (2)
+2024-10-06T00:00:00.000Z,Cross-tabulation (1)
+2024-10-28T00:00:00.000Z,Write your own function (3)
+2024-10-06T00:00:00.000Z,Generating new features
+2024-11-02T00:00:00.000Z,Type CASTs
+2024-07-07T00:00:00.000Z,Creating two-factor subplots
+2024-01-01T00:00:00.000Z,Seek and you shall find
+2024-03-26T00:00:00.000Z,Playing safe
+2024-11-15T00:00:00.000Z,"Deciding between a data lake, warehouse, and mart"
+2024-10-31T00:00:00.000Z,Subquery inside WHERE (2)
+2024-10-24T00:00:00.000Z,Joining multiple tables (2)
+2024-10-24T00:00:00.000Z,Relational Operators
+2024-03-24T00:00:00.000Z,Artificial reviews (4)
+2024-11-05T00:00:00.000Z,lapply and anonymous functions
+2024-04-23T00:00:00.000Z,Loop over DataFrame (2)
+2024-01-19T00:00:00.000Z,Table
+2024-10-24T00:00:00.000Z,Building on your LEFT JOIN
+2024-10-23T00:00:00.000Z,All together now (4)
+2024-11-02T00:00:00.000Z,Update your database as the structure changes
+2024-10-06T00:00:00.000Z,Choosing a hypothesis (1)
+2024-03-06T00:00:00.000Z,"Pandas, Part 2"
+2024-07-16T00:00:00.000Z,Strings in Python
+2024-03-24T00:00:00.000Z,Artificial reviews (3)
+2024-11-08T00:00:00.000Z,Which is better?
+2024-03-24T00:00:00.000Z,Artificial reviews
+2024-01-01T00:00:00.000Z,Net present value
+2024-07-07T00:00:00.000Z,Selecting a style for printing
+2024-03-06T00:00:00.000Z,"if, elif, else"
+2024-03-06T00:00:00.000Z,Compare arrays
+2024-10-12T00:00:00.000Z,Querying the books table
+2024-10-24T00:00:00.000Z,FULL JOINs
+2024-06-30T00:00:00.000Z,Plotting two variables
+2024-03-06T00:00:00.000Z,Square Brackets (1)
+2024-11-15T00:00:00.000Z,Who does what?
+2024-11-14T00:00:00.000Z,Reasons to partition
+2024-06-19T00:00:00.000Z,Steps of a semi join
+2024-03-26T00:00:00.000Z,Literally formatting
+2024-06-22T00:00:00.000Z,Finding outliers using IQR
+2024-07-07T00:00:00.000Z,Making a count plot with a DataFrame
+2024-06-21T00:00:00.000Z,merge_asof() and merge_ordered() differences
+2024-03-31T00:00:00.000Z,PySpark: Spark with Python
+2024-04-06T00:00:00.000Z,RDDs from Parallelized collections
+2024-06-20T00:00:00.000Z,Concatenation basics (2)
+2024-11-20T00:00:00.000Z,Query history
+2024-07-16T00:00:00.000Z,Box plot with subgroups
+2024-10-23T00:00:00.000Z,Filter with HAVING
+2024-03-26T00:00:00.000Z,Flying home
+2024-06-28T00:00:00.000Z,Relationships between variables (3)
+2024-11-13T00:00:00.000Z,Updating countries (2)
+2024-10-24T00:00:00.000Z,Comparing a country to itself (1)
+2024-11-05T00:00:00.000Z,Join all the tables together (3)
+2024-03-25T00:00:00.000Z,Calling by its name (1)
+2024-06-28T00:00:00.000Z,Study types
+2024-06-22T00:00:00.000Z,Mean vs. median
+2024-10-31T00:00:00.000Z,Subquery inside FROM
+2024-01-01T00:00:00.000Z,Data tables with one input variable
+2024-06-14T00:00:00.000Z,Your first inner join
+2024-04-24T00:00:00.000Z,Implement clumsiness
+2024-01-21T00:00:00.000Z,Scatter Plot (1)
+2024-11-05T00:00:00.000Z,Change the referential integrity behavior of a key (2)
+2024-11-02T00:00:00.000Z,Convert types USING a function
+2024-07-09T00:00:00.000Z,Count plots (3)
+2024-03-26T00:00:00.000Z,Getting tokens
+2024-06-08T00:00:00.000Z,Subsetting columns (3)
+2024-03-31T00:00:00.000Z,Interactive Use of PySpark
+2024-03-24T00:00:00.000Z,Normalizing reviews (1)
+2024-11-14T00:00:00.000Z,Add a user role to a group role
+2024-09-10T00:00:00.000Z,Updating data type to DateTime (1)
+2024-06-17T00:00:00.000Z,Merging on indexes
+2024-11-13T00:00:00.000Z,Converting to 1NF
+2024-11-03T00:00:00.000Z,lapply
+2024-10-24T00:00:00.000Z,Compare vectors
+2024-11-04T00:00:00.000Z,"Add foreign keys to the ""affiliations"" table (1)"
+2024-10-24T00:00:00.000Z,Chaining FULL JOINs
+2024-03-26T00:00:00.000Z,Getting tokens (3)
+2024-07-01T00:00:00.000Z,Plotting time-series: putting it all together
+2024-11-15T00:00:00.000Z,Understanding ETL
+2024-07-17T00:00:00.000Z,Bringing it all together (1)
+2024-06-07T00:00:00.000Z,NumPy
+2024-10-19T00:00:00.000Z,Practice with NULLs
+2024-04-10T00:00:00.000Z,Feature hashing and LabelPoint
+2024-10-23T00:00:00.000Z,USING in action
+2024-11-14T00:00:00.000Z,Analyzing a data integration plan
+2024-04-07T00:00:00.000Z,Interacting with DataFrames using PySpark SQL
+2024-06-27T00:00:00.000Z,Identifying lambda
+2024-03-05T00:00:00.000Z,"Dictionaries, Part 2"
+2024-09-10T00:00:00.000Z,Flight duration (2)
+2024-06-08T00:00:00.000Z,Subsetting 2D NumPy Arrays
+2024-11-02T00:00:00.000Z,Delete tables with DROP TABLE
+2024-08-27T00:00:00.000Z,Imputing missing plane prices (2)
+2024-08-11T00:00:00.000Z,Parallel computing
+2024-07-09T00:00:00.000Z,Plotting subgroups in line plots (2)
+2024-01-15T00:00:00.000Z,Creating a new list for another movie
+2024-08-27T00:00:00.000Z,Strategies for remaining missing data
+2024-06-30T00:00:00.000Z,Small multiples
+2024-06-25T00:00:00.000Z,The central limit theorem
+2024-06-22T00:00:00.000Z,Finding outliers using IQR (2)
+2024-06-28T00:00:00.000Z,Correlation caveats
+2024-06-12T00:00:00.000Z,CSV to DataFrame
+2024-10-31T00:00:00.000Z,Multiple WHERE clauses
+2024-07-18T00:00:00.000Z,Filter() and lambda functions
+2024-06-12T00:00:00.000Z,Calculating on a pivot table
+2024-06-17T00:00:00.000Z,How does pandas handle self joins?
+2024-06-07T00:00:00.000Z,Baseball players' height
+2024-09-10T00:00:00.000Z,Flight duration categories (1)
+2024-07-01T00:00:00.000Z,Creating boxplots
+2024-10-12T00:00:00.000Z,SQL flavors
+2024-11-09T00:00:00.000Z,Normalized and denormalized databases
+2024-11-02T00:00:00.000Z,Types of database constraints
+2024-09-10T00:00:00.000Z,Patterns over time
+2024-11-14T00:00:00.000Z,Creating vertical partitions
+2024-11-04T00:00:00.000Z,CONCATenate columns to a surrogate key (4)
+2024-01-01T00:00:00.000Z,Introduction to Capital Budgeting
+2024-08-14T00:00:00.000Z,Dict comprehensions
+2024-06-17T00:00:00.000Z,Other joins
+2024-11-02T00:00:00.000Z,Change types with ALTER COLUMN
+2024-06-20T00:00:00.000Z,Correlation between GDP and S&P500
+2024-05-03T00:00:00.000Z,Methods
+2024-08-14T00:00:00.000Z,Wrapping up comprehensions and generators.
+2024-11-04T00:00:00.000Z,ADD key CONSTRAINTs to the tables
+2024-03-05T00:00:00.000Z,Dictionary Manipulation (1)
+2024-06-30T00:00:00.000Z,Customizing data appearance
+2024-09-10T00:00:00.000Z,Exploring with KDE plots
+2024-06-23T00:00:00.000Z,Simulating sales deals
+2024-09-10T00:00:00.000Z,Identifying outliers
+2024-11-19T00:00:00.000Z,Datatype conversion (1)
+2024-10-25T00:00:00.000Z,Add an else
+2024-10-31T00:00:00.000Z,Comparing two set operations (1)
+2024-07-21T00:00:00.000Z,Extracting information for large amounts of Twitter data
+2024-06-12T00:00:00.000Z,Missing values
+2024-04-07T00:00:00.000Z,Running SQL Queries Programmatically
+2024-07-21T00:00:00.000Z,Iterating over iterables (2)
+2024-11-19T00:00:00.000Z,Traditional vs. cloud data warehouse
+2024-10-24T00:00:00.000Z,LEFT and RIGHT JOINs
+2024-07-15T00:00:00.000Z,Changing style and palette
+2024-07-07T00:00:00.000Z,Creating subplots with col and row
+2024-04-12T00:00:00.000Z,Add else
+2024-11-15T00:00:00.000Z,Supporting analysts and data scientist users
+2024-04-09T00:00:00.000Z,PySpark MLlib algorithms
+2024-11-21T00:00:00.000Z,Bar plots
+2024-09-10T00:00:00.000Z,Importing DateTime data
+2024-10-11T00:00:00.000Z,Picking a unique ID
+2024-11-19T00:00:00.000Z,Snowflake data type and data type conversion
+2024-06-28T00:00:00.000Z,Does sugar improve happiness?
+2024-06-09T00:00:00.000Z,Counting
+2024-06-23T00:00:00.000Z,Simulating wait times (2)
+2024-10-12T00:00:00.000Z,Translating between flavors
+2024-10-12T00:00:00.000Z,Using WHERE with text
+2024-11-08T00:00:00.000Z,Classifying data models
+2024-07-09T00:00:00.000Z,Customizing bar plots (1)
+2024-09-10T00:00:00.000Z,Visualizing multiple variable relationships
+2024-03-26T00:00:00.000Z,Are they bots?
+2024-07-06T00:00:00.000Z,Simple scatter plot
+2024-06-20T00:00:00.000Z,Performing an anti join (1)
+2024-06-08T00:00:00.000Z,Efficient summaries (2)
+2024-10-23T00:00:00.000Z,Joining with aliased tables
+2024-10-19T00:00:00.000Z,LIKE and NOT LIKE (2)
+2024-08-11T00:00:00.000Z,Processing data
+2024-11-14T00:00:00.000Z,Create a role
+2024-11-02T00:00:00.000Z,RENAME and DROP COLUMNs in affiliations
+2024-04-06T00:00:00.000Z,Advanced RDD Actions
+2024-06-20T00:00:00.000Z,Using merge_ordered()
+2024-11-04T00:00:00.000Z,Test your knowledge before advancing
+2024-11-11T00:00:00.000Z,Querying the star schema
+2024-03-26T00:00:00.000Z,Reeepeated characters
+2024-01-24T00:00:00.000Z,Sizes
+2024-06-22T00:00:00.000Z,Variance and standard deviation
+2024-09-10T00:00:00.000Z,Identifying outliers (1)
+2024-03-26T00:00:00.000Z,Playing safe (3)
+2024-06-08T00:00:00.000Z,2D Arithmetic
+2024-07-07T00:00:00.000Z,Hue and count plots
+2024-07-09T00:00:00.000Z,Plotting subgroups in line plots
+2024-06-12T00:00:00.000Z,Price of conventional vs. organic avocados (3)
+2024-11-21T00:00:00.000Z,Box plots
+2024-08-11T00:00:00.000Z,Somewhere I belong
+2024-09-10T00:00:00.000Z,Flight duration
+2024-04-24T00:00:00.000Z,Distribution
+2024-06-09T00:00:00.000Z,Fill in missing values and sum values with pivot tables
+2024-08-27T00:00:00.000Z,Named aggregations
+2024-11-03T00:00:00.000Z,R Packages
+2024-11-13T00:00:00.000Z,Converting to 3NF (2)
+2024-10-06T00:00:00.000Z,Congratulations
+2024-07-07T00:00:00.000Z,Creating subplots with col and row (1)
+2024-08-14T00:00:00.000Z,List comprehensions for time-stamped data
+2024-03-06T00:00:00.000Z,Boolean Operators
+2024-11-19T00:00:00.000Z,Snowflake use cases
+2024-11-17T00:00:00.000Z,Differences between ETL and ELT
+2024-06-16T00:00:00.000Z,Counting missing rows with left join (2)
+2024-04-12T00:00:00.000Z,Basic while loop
+2024-09-10T00:00:00.000Z,Adding duration categories
+2024-06-28T00:00:00.000Z,What can't correlation measure? (3)
+2024-10-23T00:00:00.000Z,Multiple joins
+2024-11-08T00:00:00.000Z,Recommend a storage solution
+2024-01-15T00:00:00.000Z,Creating a named list (2)
+2024-06-08T00:00:00.000Z,Inspecting a DataFrame
+2024-06-28T00:00:00.000Z,Longitudinal vs. cross-sectional studies
+2024-06-17T00:00:00.000Z,Self join
+2024-03-31T00:00:00.000Z,Use of lambda() with map()
+2024-11-04T00:00:00.000Z,"Add foreign keys to the ""affiliations"" table (2)"
+2024-10-23T00:00:00.000Z,Relationships in our database (1)
+2024-07-15T00:00:00.000Z,Box plots
+2024-06-28T00:00:00.000Z,Does sugar improve happiness? (1)
+2024-06-10T00:00:00.000Z,Editing properties
+2024-10-28T00:00:00.000Z,Functions inside functions
+2024-04-23T00:00:00.000Z,Loop Data Structures Part 1
+2024-04-24T00:00:00.000Z,Simulate multiple walks
+2024-07-07T00:00:00.000Z,Saving your visualizations
+2024-11-20T00:00:00.000Z,JSONified
+2024-08-11T00:00:00.000Z,Schedules
+2024-06-08T00:00:00.000Z,Combo-attack!
+2024-11-05T00:00:00.000Z,Find the error
+2024-10-06T00:00:00.000Z,Categorizing salaries
+2024-01-21T00:00:00.000Z,Build a histogram (1)
+2024-06-23T00:00:00.000Z,Simulating sales deals (3)
+2024-10-06T00:00:00.000Z,Generating hypotheses
+2024-10-30T00:00:00.000Z,UNION vs. UNION ALL (1)
+2024-03-26T00:00:00.000Z,Introduction to regular expressions
+2024-01-15T00:00:00.000Z,What's a factor and why would you use it? (2)
+2024-07-07T00:00:00.000Z,Creating two-factor subplots (1)
+2024-10-12T00:00:00.000Z,Filtering results
+2024-08-14T00:00:00.000Z,Introduction to generator expressions
+2024-10-19T00:00:00.000Z,LIKE and NOT LIKE (3)
+2024-10-24T00:00:00.000Z,Comparing a country to itself (2)
+2024-07-09T00:00:00.000Z,Count plots and bar plots
+2024-11-21T00:00:00.000Z,Histograms
+2024-10-19T00:00:00.000Z,What does NULL mean?
+2024-07-18T00:00:00.000Z,Bringing it all together: testing your error handling skills
+2024-06-12T00:00:00.000Z,Wrap-up
+2024-06-11T00:00:00.000Z,Sorting by index values
+2024-11-13T00:00:00.000Z,Redefining a view (1)
+2024-11-02T00:00:00.000Z,Query information_schema with SELECT
+2024-10-23T00:00:00.000Z,All together now (1)
+2024-10-12T00:00:00.000Z,SQL best practices
+2024-07-18T00:00:00.000Z,Functions with variable-length keyword arguments (**kwargs)
+2024-04-24T00:00:00.000Z,How low can you go?
+2024-11-08T00:00:00.000Z,Database design
+2024-07-18T00:00:00.000Z,Bringing it all together (1)
+2024-06-08T00:00:00.000Z,Average versus median
+2024-11-02T00:00:00.000Z,Change types with ALTER COLUMN (1)
+2024-11-04T00:00:00.000Z,Add a SERIAL surrogate key (1)
+2024-10-23T00:00:00.000Z,Relationships in our database (2)
+2024-01-01T00:00:00.000Z,Capital budgeting in Excel
+2024-06-21T00:00:00.000Z,"merge_ordered() caution, multiple columns (1)"
+2024-10-19T00:00:00.000Z,Summarizing subsets
+2024-09-10T00:00:00.000Z,Removing outliers (1)
+2024-11-15T00:00:00.000Z,Characteristics of top-down and bottom-up
+2024-11-04T00:00:00.000Z,REFERENCE a table with a FOREIGN KEY (1)
+2024-10-23T00:00:00.000Z,All together now (3)
+2024-10-12T00:00:00.000Z,Using WHERE with numbers (1)
+2024-06-17T00:00:00.000Z,How many rows with a left join?
+2024-07-09T00:00:00.000Z,Count plots (2)
+2024-07-16T00:00:00.000Z,Write a simple function
+2024-07-17T00:00:00.000Z,Nested functions
+2024-08-11T00:00:00.000Z,SQL databases
+2024-06-23T00:00:00.000Z,Simulating wait times (1)
+2024-11-18T00:00:00.000Z,Knowing the differences between on-premise and cloud
+2024-07-15T00:00:00.000Z,Changing the scale (1)
+2024-07-01T00:00:00.000Z,Annotating time-series data
+2024-07-09T00:00:00.000Z,Bar plots with percentages
+2024-04-23T00:00:00.000Z,Add conditionals
+2024-10-25T00:00:00.000Z,Take control!
+2024-10-19T00:00:00.000Z,Practice with NULLs (1)
+2024-11-04T00:00:00.000Z,"Add foreign keys to the ""affiliations"" table (3)"
+2024-10-23T00:00:00.000Z,Sorting multiple fields
+2024-11-03T00:00:00.000Z,Identify keys with SELECT COUNT DISTINCT
+2024-10-19T00:00:00.000Z,Combining aggregate functions with WHERE (2)
+2024-06-21T00:00:00.000Z,Reshaping data with .melt()
+2024-06-08T00:00:00.000Z,2D NumPy Arrays
+2024-11-20T00:00:00.000Z,Querying JSON data (2)
+2024-07-07T00:00:00.000Z,"""Tidy"" vs. ""untidy"" data"
+2024-10-12T00:00:00.000Z,SQL style
+2024-06-23T00:00:00.000Z,Simulating wait times (4)
+2024-01-01T00:00:00.000Z,What is what-if?
+2024-03-26T00:00:00.000Z,Preparing a report (3)
+2024-03-24T00:00:00.000Z,Finding and replacing
+2024-06-21T00:00:00.000Z,Data type classification
+2024-06-12T00:00:00.000Z,Pivot temperature by city and year
+2024-10-19T00:00:00.000Z,Setting dtype when reading data (1)
+2024-09-10T00:00:00.000Z,Adding descriptive statistics (3)
+2024-06-07T00:00:00.000Z,Different ways of importing
+2024-07-15T00:00:00.000Z,Adjusting the whiskers (1)
+2024-06-16T00:00:00.000Z,One-to-many merge with multiple tables (2)
+2024-11-04T00:00:00.000Z,JOIN tables linked by a foreign key
+2024-04-24T00:00:00.000Z,Slicing and dicing
+2024-06-20T00:00:00.000Z,Performing an anti join
+2024-06-21T00:00:00.000Z,"merge_ordered() caution, multiple columns (2)"
+2024-10-19T00:00:00.000Z,Using OR
+2024-06-12T00:00:00.000Z,Creating DataFrames
+2024-06-12T00:00:00.000Z,Which avocado size is most popular?
+2024-06-07T00:00:00.000Z,Packages
+2024-10-19T00:00:00.000Z,Practice with aggregate functions
+2024-07-15T00:00:00.000Z,Using a custom palette
+2024-03-26T00:00:00.000Z,Match and split (4)
+2024-06-22T00:00:00.000Z,Creating a probability distribution (1)
+2024-11-13T00:00:00.000Z,Updating countries
+2024-03-06T00:00:00.000Z,Greater and less than
+2024-11-08T00:00:00.000Z,Querying the dimensional model (2)
+2024-08-23T00:00:00.000Z,Writing a generator to load data in chunks (3)
+2024-11-13T00:00:00.000Z,Redefining a view (2)
+2024-03-26T00:00:00.000Z,Filtering phone numbers (1)
+2024-06-09T00:00:00.000Z,Pivot tables
+2024-01-21T00:00:00.000Z,Line Plot (2): Interpretation
+2024-11-16T00:00:00.000Z,Understanding the cloud
+2024-11-13T00:00:00.000Z,Normal forms
+2024-03-31T00:00:00.000Z,Use of lambda() with filter()
+2024-11-20T00:00:00.000Z,"Functions, sorting, and grouping"
+2024-07-15T00:00:00.000Z,Changing plot style and color
+2024-11-05T00:00:00.000Z,Change the referential integrity behavior of a key
+2024-06-27T00:00:00.000Z,Modeling time between leads
+2024-06-28T00:00:00.000Z,Adding data to an Axes object
+2024-10-28T00:00:00.000Z,Function documentation
+2024-06-08T00:00:00.000Z,Efficient summaries
+2024-10-06T00:00:00.000Z,Cross-tabulation
+2024-10-24T00:00:00.000Z,Histories and languages (2)
+2024-10-12T00:00:00.000Z,VIEWing your query (1)
+2024-10-23T00:00:00.000Z,GROUP BY single fields (1)
+2024-07-07T00:00:00.000Z,Using pandas with Seaborn
+2024-06-30T00:00:00.000Z,Customizing your plots
+2024-08-23T00:00:00.000Z,Zipping dictionaries
+2024-04-09T00:00:00.000Z,Loading Movie Lens dataset into RDDs
+2024-10-28T00:00:00.000Z,Use a function
+2024-06-12T00:00:00.000Z,CSV to DataFrame (1)
+2024-11-14T00:00:00.000Z,Partitioning and normalization
+2024-07-07T00:00:00.000Z,Save a figure with different sizes (1)
+2024-10-28T00:00:00.000Z,Writing Functions
+2024-11-20T00:00:00.000Z,Handling semi-structured data
+2024-10-23T00:00:00.000Z,Aliasing with functions (2)
+2024-11-20T00:00:00.000Z,String functions
+2024-06-17T00:00:00.000Z,Index merge for movie ratings
+2024-11-19T00:00:00.000Z,Virtual Warehouse
+2024-06-23T00:00:00.000Z,Simulating sales deals (1)
+2024-07-15T00:00:00.000Z,Create and interpret a box plot (2)
+2024-10-24T00:00:00.000Z,Choosing your join
+2024-06-28T00:00:00.000Z,Relationships between variables (2)
+2024-07-09T00:00:00.000Z,Changing the size of scatter plot points (2)
+2024-10-19T00:00:00.000Z,Exploring a target variable (2)
+2024-03-26T00:00:00.000Z,Capturing groups
+2024-09-10T00:00:00.000Z,Visualizing variable relationships
+2024-07-28T00:00:00.000Z,Data engineers vs. data scientists
+2024-10-31T00:00:00.000Z,Comparing global economies
+2024-11-04T00:00:00.000Z,ADD key CONSTRAINTs to the tables (2)
+2024-06-10T00:00:00.000Z,Formatting currency
+2024-03-26T00:00:00.000Z,Greedy vs. non-greedy matching
+2024-09-10T00:00:00.000Z,Flight duration (3)
+2024-07-01T00:00:00.000Z,Adding error-bars to a plot
+2024-11-16T00:00:00.000Z,Understanding facts and dimensional tables
+2024-11-08T00:00:00.000Z,Extending the book dimension
+2024-01-15T00:00:00.000Z,Selecting elements from a list
+2024-10-23T00:00:00.000Z,All together now
+2024-03-25T00:00:00.000Z,Calling by its name
+2024-06-12T00:00:00.000Z,Subsetting pivot tables
+2024-10-31T00:00:00.000Z,Subqueries inside WHERE and SELECT
+2024-03-25T00:00:00.000Z,Replacing negations
+2024-01-01T00:00:00.000Z,Discounting NPV
+2024-11-20T00:00:00.000Z,String functions (3)
+2024-03-26T00:00:00.000Z,Flying home (2)
+2024-07-15T00:00:00.000Z,Create and interpret a box plot
+2024-06-28T00:00:00.000Z,Transforming variables
+2024-10-23T00:00:00.000Z,Inspecting a relationship (1)
+2024-11-02T00:00:00.000Z,Introduction to relational databases
+2024-08-14T00:00:00.000Z,Using conditionals in comprehensions (2)
+2024-03-24T00:00:00.000Z,Normalizing reviews (4)
+2024-07-01T00:00:00.000Z,Stacked bar chart
+2024-11-13T00:00:00.000Z,Database views
+2024-07-16T00:00:00.000Z,Recapping built-in functions
+2024-06-23T00:00:00.000Z,Calculating binomial probabilities (1)
+2024-11-02T00:00:00.000Z,ADD a COLUMN with ALTER TABLE
+2024-07-09T00:00:00.000Z,Changing the size of scatter plot points
+2024-11-08T00:00:00.000Z,Adding foreign keys
+2024-08-14T00:00:00.000Z,Build a generator
+2024-07-07T00:00:00.000Z,Save a figure with different sizes (2)
+2024-01-01T00:00:00.000Z,The time value of money
+2024-09-10T00:00:00.000Z,Factor relationships and distributions
+2024-10-23T00:00:00.000Z,Your first join (1)
+2024-04-06T00:00:00.000Z,Create a base RDD and transform it
+2024-11-16T00:00:00.000Z,Kimball's four step process
+2024-01-15T00:00:00.000Z,"Lists, why would you need them?"
+2024-07-07T00:00:00.000Z,Saving a file several times
+2024-08-11T00:00:00.000Z,Tell the truth
+2024-11-13T00:00:00.000Z,Creating a view from other views (2)
+2024-06-30T00:00:00.000Z,Customizing axis labels and adding titles
+2024-10-11T00:00:00.000Z,Data organization
+2024-03-26T00:00:00.000Z,Some time ago (1)
+2024-06-08T00:00:00.000Z,Sorting rows
+2024-06-11T00:00:00.000Z,Slicing index values
+2024-06-23T00:00:00.000Z,Calculating binomial probabilities (3)
+2024-10-19T00:00:00.000Z,Categorical vs. numerical
+2024-11-03T00:00:00.000Z,R you functional?
+2024-01-19T00:00:00.000Z,More columns
+2024-04-23T00:00:00.000Z,Add column (1)
+2024-04-23T00:00:00.000Z,Indexes and values (2)
+2024-06-11T00:00:00.000Z,Slicing in both directions
+2024-11-14T00:00:00.000Z,Creating vertical partitions (1)
+2024-07-21T00:00:00.000Z,Playing with iterators
+2024-10-23T00:00:00.000Z,Defining relationships
+2024-10-24T00:00:00.000Z,Histories and languages (1)
+2024-06-12T00:00:00.000Z,List of dictionaries
+2024-08-14T00:00:00.000Z,Conditional list comprehensions for time-stamped data
+2024-01-15T00:00:00.000Z,What's a factor and why would you use it? (3)
+2024-03-26T00:00:00.000Z,Parsing PDF files (1)
+2024-10-06T00:00:00.000Z,Choosing a hypothesis
+2024-04-24T00:00:00.000Z,Random Walk
+2024-11-16T00:00:00.000Z,Cloud computing services
+2024-06-30T00:00:00.000Z,Small multiples with shared y axis
+2024-11-03T00:00:00.000Z,Different ways to load a package
+2024-06-17T00:00:00.000Z,Self join (3)
+2024-06-21T00:00:00.000Z,Using .melt() for stocks vs bond performance
+2024-06-27T00:00:00.000Z,Tracking lead responses (1)
+2024-10-31T00:00:00.000Z,Subquery inside SELECT (2)
+2024-07-09T00:00:00.000Z,Visualizing standard deviation with line plots
+2024-11-02T00:00:00.000Z,Make your columns UNIQUE with ADD CONSTRAINT (2)
+2024-06-12T00:00:00.000Z,Finding missing values
+2024-01-15T00:00:00.000Z,Creating a data frame
+2024-03-26T00:00:00.000Z,Template method
+2024-11-05T00:00:00.000Z,"Populate the ""professor_id"" column"
+2024-11-21T00:00:00.000Z,Interpreting dot plots
+2024-06-16T00:00:00.000Z,One-to-many classification
+2024-03-26T00:00:00.000Z,Match and split
+2024-10-24T00:00:00.000Z,Equality
+2024-11-14T00:00:00.000Z,Choosing the right DBMS
+2024-01-21T00:00:00.000Z,Histogram
+2024-01-19T00:00:00.000Z,The essentials of Power BI
+2024-09-10T00:00:00.000Z,Removing outliers (2)
+2024-09-10T00:00:00.000Z,Updating data type to DateTime
+2024-03-26T00:00:00.000Z,Parsing PDF files (2)
+2024-03-26T00:00:00.000Z,Finishing line
+2024-11-17T00:00:00.000Z,Understanding data governance
+2024-11-13T00:00:00.000Z,Creating a view from other views (1)
+2024-11-02T00:00:00.000Z,Change types with ALTER COLUMN (2)
+2024-11-13T00:00:00.000Z,Granting and revoking access
+2024-04-07T00:00:00.000Z,Part 1: Create a DataFrame from CSV file
+2024-06-23T00:00:00.000Z,Which distribution?
+2024-06-08T00:00:00.000Z,NumPy: Basic Statistics
+2024-06-27T00:00:00.000Z,Modeling time between leads (1)
+2024-11-04T00:00:00.000Z,ADD key CONSTRAINTs to the tables (1)
+2024-06-11T00:00:00.000Z,Explicit indexes
+2024-07-17T00:00:00.000Z,Default and flexible arguments
+2024-06-21T00:00:00.000Z,Using merge_asof() to study stocks
+2024-11-02T00:00:00.000Z,Attributes of relational databases
+2024-04-06T00:00:00.000Z,ReduceBykey and Collect
+2024-04-26T00:00:00.000Z,Manipulating Lists
+2024-06-22T00:00:00.000Z,Discrete distributions
+2024-07-16T00:00:00.000Z,Putting it all together
+2024-03-25T00:00:00.000Z,Put it in order! (2)
+2024-11-20T00:00:00.000Z,Querying JSON data (1)
+2024-11-13T00:00:00.000Z,Creating a view from other views
+2024-11-17T00:00:00.000Z,ETL and ELT
+2024-10-06T00:00:00.000Z,Categorizing salaries (2)
+2024-11-16T00:00:00.000Z,Slowly changing dimensions
+2024-04-12T00:00:00.000Z,Filtering pandas DataFrames
+2024-06-12T00:00:00.000Z,Reading and writing CSVs
+2024-07-18T00:00:00.000Z,Reduce() and lambda functions
+2024-04-07T00:00:00.000Z,Operating on DataFrames in PySpark
+2024-11-03T00:00:00.000Z,Get to know SELECT COUNT DISTINCT (2)
+2024-07-21T00:00:00.000Z,Using iterators to load large files into memory
+2024-03-26T00:00:00.000Z,Invalid password
+2024-04-23T00:00:00.000Z,Roll the dice
+2024-07-15T00:00:00.000Z,Customizing point plots
+2024-08-23T00:00:00.000Z,Writing an iterator to load data in chunks (2)
+2024-08-23T00:00:00.000Z,Using Python generators for streaming data
+2024-10-19T00:00:00.000Z,Setting dtypes and saving memory (2)
+2024-11-14T00:00:00.000Z,Create a role (2)
+2024-04-09T00:00:00.000Z,Collaborative filtering
+2024-03-05T00:00:00.000Z,"Dictionaries, Part 1"
+2024-06-27T00:00:00.000Z,Modeling time between leads (2)
+2024-03-24T00:00:00.000Z,First day!
+2024-06-08T00:00:00.000Z,Subsetting rows (2)
+2024-11-05T00:00:00.000Z,Reverse engineering sapply
+2024-06-28T00:00:00.000Z,What can't correlation measure?
+2024-10-19T00:00:00.000Z,Exploring a target variable (3)
+2024-10-06T00:00:00.000Z,Choosing a hypothesis (2)
+2024-11-13T00:00:00.000Z,Converting to 2NF
+2024-05-03T00:00:00.000Z,Multiple arguments
+2024-11-15T00:00:00.000Z,Possible use cases for a data warehouse for Zynga
+2024-04-07T00:00:00.000Z,Data Visualization in PySpark using DataFrames
+2024-03-26T00:00:00.000Z,Greedy matching (1)
+2024-11-21T00:00:00.000Z,Motivating visualization
+2024-11-02T00:00:00.000Z,Keys and superkeys
+2024-06-07T00:00:00.000Z,Import package
+2024-01-01T00:00:00.000Z,Your final recommendation
+2024-08-11T00:00:00.000Z,Data structures
+2024-06-16T00:00:00.000Z,Inner joins and number of rows returned (1)
+2024-08-23T00:00:00.000Z,Writing an iterator to load data in chunks (3)
+2024-06-21T00:00:00.000Z,Using merge_asof()
+2024-06-23T00:00:00.000Z,Simulating wait times (3)
+2024-06-07T00:00:00.000Z,NumPy Side Effects
+2024-03-24T00:00:00.000Z,First day! (2)
+2024-11-05T00:00:00.000Z,Referential integrity
+2024-10-12T00:00:00.000Z,Using WHERE with numbers
+2024-10-12T00:00:00.000Z,Developing SQL style
+2024-06-30T00:00:00.000Z,Read data with a time index
+2024-10-26T00:00:00.000Z,Loop over a list
+2024-06-23T00:00:00.000Z,Probabilities from the normal distribution (4)
+2024-03-24T00:00:00.000Z,Finding a substring
+2024-07-07T00:00:00.000Z,Switching between styles (2)
+2024-06-20T00:00:00.000Z,Phillips curve using merge_ordered()
+2024-10-11T00:00:00.000Z,Introducing queries
+2024-07-16T00:00:00.000Z,Functions with multiple parameters
+2024-06-30T00:00:00.000Z,Creating a grid of subplots
+2024-07-07T00:00:00.000Z,Adding a third variable with hue
+2024-01-15T00:00:00.000Z,Summarizing a factor
+2024-10-24T00:00:00.000Z,"This is a LEFT JOIN, right?"
+2024-07-15T00:00:00.000Z,Changing the scale (3)
+2024-11-03T00:00:00.000Z,Identify the primary key
+2024-07-07T00:00:00.000Z,Unique values of a column
+2024-01-20T00:00:00.000Z,Field aggregation
+2024-06-27T00:00:00.000Z,The CLT in action (1)
+2024-07-07T00:00:00.000Z,Hue and scatter plots (2)
+2024-08-27T00:00:00.000Z,Functions for initial exploration (2)
+2024-06-16T00:00:00.000Z,One-to-many merge with multiple tables (1)
+2024-06-27T00:00:00.000Z,Distribution dragging and dropping
+2024-10-31T00:00:00.000Z,Calling all set operators
+2024-06-27T00:00:00.000Z,The CLT in action (2)
+2024-06-20T00:00:00.000Z,Performing an anti join (3)
+2024-05-03T00:00:00.000Z,List Methods
+2024-06-17T00:00:00.000Z,Enriching a dataset
+2024-03-26T00:00:00.000Z,Match and split (1)
+2024-08-27T00:00:00.000Z,Summaries with .groupby() and .agg() (1)
+2024-11-20T00:00:00.000Z,Understanding CTE
+2024-11-16T00:00:00.000Z,Which queries are faster?
+2024-04-23T00:00:00.000Z,Indexes and values (1)
+2024-08-11T00:00:00.000Z,Columns
+2024-06-16T00:00:00.000Z,One-to-many relationships
+2024-11-15T00:00:00.000Z,Data warehouses vs. data lakes
+2024-01-15T00:00:00.000Z,Only planets with rings (2)
+2024-07-21T00:00:00.000Z,Using zip
+2024-06-17T00:00:00.000Z,Right join to find unique movies (4)
+2024-03-26T00:00:00.000Z,On time (1)
+2024-11-06T00:00:00.000Z,Regular Expressions
+2024-06-20T00:00:00.000Z,Correlation between GDP and S&P500 (3)
+2024-10-19T00:00:00.000Z,Combining filtering and selecting
+2024-06-09T00:00:00.000Z,Pivoting on one variable (2)
+2024-08-11T00:00:00.000Z,Parallel universe
+2024-11-18T00:00:00.000Z,Selecting bottom-up
+2024-03-06T00:00:00.000Z,Comparison Operators
+2024-08-23T00:00:00.000Z,Writing an iterator to load data in chunks (5)
+2024-07-09T00:00:00.000Z,Introduction to line plots
+2024-11-04T00:00:00.000Z,CONCATenate columns to a surrogate key
+2024-09-10T00:00:00.000Z,Imputing missing plane prices (3)
+2024-10-19T00:00:00.000Z,Using BETWEEN (3)
+2024-03-25T00:00:00.000Z,Put it in order!
+2024-01-19T00:00:00.000Z,Slicers and Tables
+2024-01-18T00:00:00.000Z,List of lists
+2024-07-16T00:00:00.000Z,User-defined functions
+2024-10-26T00:00:00.000Z,Loop over a matrix
+2024-07-07T00:00:00.000Z,Making a scatter plot with lists (4)
+2024-11-16T00:00:00.000Z,Row vs. column data store
+2024-09-10T00:00:00.000Z,Imputing missing plane prices
+2024-06-08T00:00:00.000Z,Subsetting NumPy Arrays
+2024-03-25T00:00:00.000Z,Positional formatting
+2024-10-19T00:00:00.000Z,Combining aggregate functions with WHERE
+2024-11-14T00:00:00.000Z,Table partitioning
+2024-11-20T00:00:00.000Z,Essentials of query optimization
+2024-07-16T00:00:00.000Z,Adding titles and labels: Part 2
+2024-06-09T00:00:00.000Z,Grouped summary statistics
+2024-06-21T00:00:00.000Z,Explore financials with .query()
+2024-11-05T00:00:00.000Z,Data Utilities
+2024-11-02T00:00:00.000Z,Query information_schema with SELECT (1)
+2024-04-12T00:00:00.000Z,Driving right (2)
+2024-11-08T00:00:00.000Z,OLAP vs. OLTP
+2024-06-17T00:00:00.000Z,Right join to find unique movies (2)
+2024-09-10T00:00:00.000Z,Categorical data in scatter plots
+2024-06-22T00:00:00.000Z,Mean and median
+2024-03-26T00:00:00.000Z,Make this function
+2024-10-19T00:00:00.000Z,ROUND() with a negative parameter
+2024-11-16T00:00:00.000Z,Cloud vs. on-premise
+2024-06-08T00:00:00.000Z,Subsetting columns (2)
+2024-11-16T00:00:00.000Z,Understanding OLTP
+2024-06-07T00:00:00.000Z,List Methods (2)
+2024-01-01T00:00:00.000Z,Time value of money calculations in Excel
+2024-11-15T00:00:00.000Z,Top-down vs bottom-up
+2024-10-19T00:00:00.000Z,NULL values
+2024-06-17T00:00:00.000Z,Self join (2)
+2024-10-26T00:00:00.000Z,Loop over a vector
+2024-07-18T00:00:00.000Z,Error handling with try-except
+2024-06-08T00:00:00.000Z,Inspecting a DataFrame (4)
+2024-06-08T00:00:00.000Z,Subsetting rows (3)
+2024-05-03T00:00:00.000Z,Functions
+2024-05-03T00:00:00.000Z,Extend a list
+2024-07-17T00:00:00.000Z,Bringing it all together
+2024-08-27T00:00:00.000Z,Detecting data types (1)
+2024-04-10T00:00:00.000Z,Congratulations!
+2024-04-06T00:00:00.000Z,Filter and Count
+2024-04-24T00:00:00.000Z,Calculate the odds
+2024-04-12T00:00:00.000Z,Driving right (1)
+2024-11-16T00:00:00.000Z,One starry and snowy night
+2024-10-12T00:00:00.000Z,Query execution
+2024-09-10T00:00:00.000Z,Adding descriptive statistics
+2024-10-24T00:00:00.000Z,Is this RIGHT?
+2024-03-26T00:00:00.000Z,Playing safe (1)
+2024-10-19T00:00:00.000Z,Setting dtypes and saving memory (3)
+2024-10-23T00:00:00.000Z,Aliasing with functions (1)
+2024-04-07T00:00:00.000Z,SQL queries for filtering Table
+2024-10-23T00:00:00.000Z,Grouping data
+2024-06-11T00:00:00.000Z,Setting multi-level indexes
+2024-11-05T00:00:00.000Z,Referential integrity violations
+2024-07-01T00:00:00.000Z,Quantitative comparisons: bar-charts
+2024-11-04T00:00:00.000Z,"Populate the ""professor_id"" column (1)"
+2024-10-24T00:00:00.000Z,Building on your LEFT JOIN (2)
+2024-06-14T00:00:00.000Z,Your first inner join (1)
+2024-06-23T00:00:00.000Z,Creating a probability distribution (3)
+2024-11-05T00:00:00.000Z,"Populate the ""professor_id"" column (2)"
+2024-04-23T00:00:00.000Z,Random Numbers
+2024-07-18T00:00:00.000Z,Writing a lambda function you already know
+2024-07-15T00:00:00.000Z,Point plots with subgroups (2)
+2024-07-15T00:00:00.000Z,Point plots
+2024-11-21T00:00:00.000Z,Trends with scatter plots
+2024-08-11T00:00:00.000Z,What's the difference
+2024-10-26T00:00:00.000Z,For loop
+2024-10-12T00:00:00.000Z,Debugging errors (3)
+2024-06-09T00:00:00.000Z,Fill in missing values and sum values with pivot tables (2)
+2024-10-12T00:00:00.000Z,Limiting results
+2024-09-10T00:00:00.000Z,Visualizing relationships over time (1)
+2024-01-15T00:00:00.000Z,Ordered factors (2)
+2024-04-23T00:00:00.000Z,Loop Data Structures Part 2
+2024-08-23T00:00:00.000Z,Writing a generator to load data in chunks (2)
+2024-03-26T00:00:00.000Z,Everything clean
+2024-06-14T00:00:00.000Z,Inner join
+2024-10-26T00:00:00.000Z,Stop the while loop: break
+2024-07-17T00:00:00.000Z,Nested Functions II
+2024-11-08T00:00:00.000Z,Deciding fact and dimension tables
+2024-10-19T00:00:00.000Z,Using BETWEEN (2)
+2024-04-10T00:00:00.000Z,K-means training
+2024-11-02T00:00:00.000Z,Make your columns UNIQUE with ADD CONSTRAINT
+2024-11-08T00:00:00.000Z,"Right here, right now"
+2024-06-20T00:00:00.000Z,Performing a semi join
+2024-07-15T00:00:00.000Z,Omitting outliers
+2024-04-12T00:00:00.000Z,Cars per capita (2)
+2024-06-08T00:00:00.000Z,Inspecting a DataFrame (3)
+2024-11-05T00:00:00.000Z,Use lapply with additional arguments
+2024-06-21T00:00:00.000Z,Subsetting rows with .query() (3)
+2024-10-23T00:00:00.000Z,Sorting single fields (2)
+2024-06-10T00:00:00.000Z,Transforming and formatting columns
+2024-06-23T00:00:00.000Z,Creating a probability distribution (2)
+2024-11-13T00:00:00.000Z,Database roles and access control
+2024-03-26T00:00:00.000Z,Flying home (1)
+2024-06-23T00:00:00.000Z,The binomial distribution
+2024-01-01T00:00:00.000Z,Future value
+2024-11-08T00:00:00.000Z,Name that data type!
+2024-03-26T00:00:00.000Z,Find the numbers (2)
+2024-03-25T00:00:00.000Z,Where's the word? (1)
+2024-11-13T00:00:00.000Z,Materialized views
+2024-11-20T00:00:00.000Z,Joining in Snowflake
+2024-06-20T00:00:00.000Z,Correlation between GDP and S&P500 (1)
+2024-06-23T00:00:00.000Z,Data back-ups
+2024-01-24T00:00:00.000Z,Colors
+2024-03-26T00:00:00.000Z,Alternation and non-capturing groups
+2024-06-20T00:00:00.000Z,Concatenate and merge to find common songs
+2024-11-14T00:00:00.000Z,Creating horizontal partitions (2)
+2024-10-28T00:00:00.000Z,Write your own function
+2024-11-20T00:00:00.000Z,Datatype conversion
+2024-11-15T00:00:00.000Z,Knowing the what and why
+2024-04-23T00:00:00.000Z,Add column (2)
+2024-06-30T00:00:00.000Z,Defining a function that plots time-series data
+2024-03-31T00:00:00.000Z,The 3 V's of Big Data
+2024-07-18T00:00:00.000Z,Bringing it all together (2)
+2024-10-19T00:00:00.000Z,Practice with aggregate functions (4)
+2024-10-31T00:00:00.000Z,Diagnosing problems using anti join
