@@ -12,7 +12,7 @@ They have provided you with a single dataset to use. A summary and preview are p
 
 It is a modified version of the original data, which is publicly available from Los Angeles Open Data.
 
-crimes.csv
+*crimes.csv*
 
 # Column	Description
 
