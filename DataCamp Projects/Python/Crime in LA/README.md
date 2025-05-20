@@ -1,4 +1,4 @@
-Los Angeles skyline
+# Los Angeles skyline
 
 Los Angeles, California 😎. The City of Angels. Tinseltown. The Entertainment Capital of the World!
 
@@ -6,7 +6,7 @@ Known for its warm weather, palm trees, sprawling coastline, and Hollywood, alon
 
 You have been asked to support **the Los Angeles Police Department (LAPD)** by analyzing crime data to identify patterns in criminal behavior. They plan to use your insights to allocate resources effectively to tackle various crimes in different areas.
 
-**The Data**
+# The Data
 
 They have provided you with a single dataset to use. A summary and preview are provided below.
 
@@ -14,25 +14,25 @@ It is a modified version of the original data, which is publicly available from 
 
 crimes.csv
 
-Column	Description
+# Column	Description
 
-'DR_NO'	Division of Records Number: Official file number made up of a 2-digit year, area ID, and 5 digits.
+*'DR_NO'*	Division of Records Number: Official file number made up of a 2-digit year, area ID, and 5 digits.
 
-'Date Rptd'	Date reported - MM/DD/YYYY.
+*'Date Rptd'*	Date reported - MM/DD/YYYY.
 
-'DATE OCC'	Date of occurrence - MM/DD/YYYY.
+*'DATE OCC'*	Date of occurrence - MM/DD/YYYY.
 
-'TIME OCC'	In 24-hour military time.
+*'TIME OCC'*	In 24-hour military time.
 
-'AREA NAME'	The 21 Geographic Areas or Patrol Divisions are also given a name designation that references a landmark or the surrounding community that it is responsible for. For example, the 77th Street Division is located at the intersection of South Broadway and 77th Street, serving neighborhoods in South Los Angeles.
+*'AREA NAME'*	The 21 Geographic Areas or Patrol Divisions are also given a name designation that references a landmark or the surrounding community that it is responsible for. For example, the 77th Street Division is located at the intersection of South Broadway and 77th Street, serving neighborhoods in South Los Angeles.
 
-'Crm Cd Desc'	Indicates the crime committed.
+*'Crm Cd Desc'*	Indicates the crime committed.
 
-'Vict Age'	Victim's age in years.
+*'Vict Age'*	Victim's age in years.
 
-'Vict Sex'	Victim's sex: F: Female, M: Male, X: Unknown.
+*'Vict Sex'*	Victim's sex: F: Female, M: Male, X: Unknown.
 
-'Vict Descent'	Victim's descent:
+*'Vict Descent'*	Victim's descent:
 A - Other Asian 
 B - Black 
 C - Chinese 
@@ -53,8 +53,8 @@ W - White
 X - Unknown 
 Z - Asian Indian 
 
-'Weapon Desc'	Description of the weapon used (if applicable).
+*'Weapon Desc'*	Description of the weapon used (if applicable).
 
-'Status Desc'	Crime status.
+*'Status Desc'*	Crime status.
 
-'LOCATION'	Street address of the crime.
+*'LOCATION'*	Street address of the crime.
