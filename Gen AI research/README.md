@@ -2,7 +2,7 @@
 # What is the overall quality of output that ChatGPT produces?
 
 
-Qualitative vs Quantitative
+Qualitative vs Quantitative (with rubrics and evaluation)
 
 
 **Quantitative Analysis**
