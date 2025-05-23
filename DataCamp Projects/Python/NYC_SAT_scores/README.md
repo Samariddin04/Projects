@@ -1,19 +1,7 @@
-**ActiVR** provides a virtual reality device designed for exercise and fitness.
+Every year, American high school students take SATs, which are standardized tests intended to measure literacy, numeracy, and writing skills. There are three sections - reading, math, and writing, each with a maximum score of 800 points. These tests are extremely important for students and colleges, as they play a pivotal role in the admissions process.
 
-**ActiVR** offers a range of products, including VR devices and subscription-based fitness programs through their apps.
+Analyzing the performance of schools is important for a variety of stakeholders, including policy and education professionals, researchers, government, and even parents considering which school their children should attend.
 
-The sales team at **ActiVR** wants to analyze user data to enhance their marketing strategy and evaluate their products. For this, it is crucial that the data is clean, accurate, and available for reporting.
+You have been provided with a dataset called schools.csv, which is previewed below.
 
-They need your assistance in preparing the data before launching a new promotional campaign.
-
-# Database Schema
-
-The data schema for **ActiVR's** database is outlined as follows:
-
-*events:* Contains records of events registered in different games.
-
-*games:* Stores information about various games available on the platform.
-
-*devices:* Holds data about the virtual reality devices used by the users.
-
-*users:* Contains details about the users utilizing the ActiVR platform.
+You have been tasked with answering three key questions about **New York City (NYC) public school SAT performance**.
