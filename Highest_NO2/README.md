@@ -1,6 +1,6 @@
 # AIR QUALITY INDEX REPORT
 
-**DATA**
+**THE DATA**
 
 Time : 1980-2023 (Int)
 
