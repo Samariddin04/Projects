@@ -4,7 +4,7 @@ Football is an analytical sport; coaches use many metrics in deciding who makes
 
 To determine what created their winning culture for this year's triumphant team, we looked at their composure of players from 1990-2022
 
-# Data
+# The Data
 
 The data for this visualization is from the University of Michigan's football team
 
